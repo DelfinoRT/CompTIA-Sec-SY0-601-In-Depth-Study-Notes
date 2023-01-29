@@ -15,14 +15,22 @@ Social engineering is very successful for two general reasons:
 * The second reason is that individuals normally seek to avoid confrontation and trouble. Usually the attacker attempts to intimidate the victim, threatening to call the victim's supervisor because of lack of help, the victim may give in and provide the information to avoid confrontation.
 
 ### Phsychological Components of Social Engineering
-* **Authority**: The actor acts as an individual of authority.
-* **Intimidation**: Frightening or threatening the victim.
-* **Consensus**: Convince based on what's normally expected.
-* **Scarcity**: Limited resources and time to act.
-* **Familiarity**: The victim is well known.
-* **Trust**: Gain their confidence, be their friend.
-* **Urgency**: Limited time to act, rush the victim.
+* **Authority**: The actor acts as an individual of authority, this leads to an environment where one party feels at risk of challenging another.
+* **Intimidation**: Frightening or threatening the victimm, this uses communication that builds expectation of superiority.
+* **Consensus**: Convince based on what's normally expected, the attacker motivates others to achieve a desired outcome.
+* **Scarcity**: Limited resources and time to act. If something is in short supply and is valued, arriving with what is needed can bring rewards and acceptance.
+* **Familiarity**: The victim is well known. The sense of familiarity and appeal can lead to misplaced trust.
+* **Trust**: Gain their confidence, be their friend. Not to force people to do things they would normally not do, lead the victims to feel they are doing the correct thing.
+* **Urgency**: Limited time to act, rush the victim. Give a reason to believe that the victim could take advantage of a timely situation.
 
+### Defenses
+* Stopping social engineering begins with policies and procedures that eliminate the pathways used by the attacks.
+* Visitor access rules, costumer support guidelines, verifying requests for legitimacy.|
+* Employee training, frequent reminders, retraining  programs, awareness campaigns.
+* Have multiple layers of defenses including approvals and authentication processes.
+
+
+## Social Engineering Techniques
 
 🟢 **Phishing**  
 
