@@ -9,7 +9,8 @@
 * The best defense agains social engineering attacks is a comprehensive training and awareness program.  
 * The tools to perform social engineering attacks are based on a knowledge of psychology and usually don't require a sophisticted knowledge of software or hardware.
 
-🟢 **Phising**  
+🟢 **Phishing**  
 
 Is when an attacker attempts to obtain sensitive information (such as usernames, passwords, credit card numbers and details about the user's bank accounts) from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.  
-The message encourages the user to visit a website that appears to be for a reputable entity.
+The message encourages the user to visit a website that appears to be for a reputable entity.   
+The information gathered by the attacker is oftenly used to steal the user's money, credentials or identity.
