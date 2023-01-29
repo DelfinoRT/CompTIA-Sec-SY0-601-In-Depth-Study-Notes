@@ -1,6 +1,6 @@
 # CompTIA SY0-501 Security+ Study Notes
 
-## Sections
+## Part 1 - Threads, Attacks, and Vulnerabilities // Chapter 01 - Social Engineering Techniques
 
 ### Sections
 
