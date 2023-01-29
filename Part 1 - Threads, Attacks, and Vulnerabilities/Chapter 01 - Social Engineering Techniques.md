@@ -11,5 +11,5 @@
 
 🟢 Phising  
 
-Is when an attacker attempts to obtain sensitive information (such as usernames, passwords, credit card numbers and details abput the user's bank accounts) from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.  
+Is when an attacker attempts to obtain sensitive information (such as usernames, passwords, credit card numbers and details about the user's bank accounts) from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.  
 The message encourages the user to visit a website that appears to be for a reputable entity.
