@@ -14,6 +14,16 @@ Social engineering is very successful for two general reasons:
 * The first is the basic desire of most people to be helpful. The problem with this is that seemingly innocuous information can be used either directly in an attack or indirectly to build a bigger picture that an attacker can use to create an aura of authenticity during an attack.  
 * The second reason is that individuals normally seek to avoid confrontation and trouble. Usually the attacker attempts to intimidate the victim, threatening to call the victim's supervisor because of lack of help, the victim may give in and provide the information to avoid confrontation.
 
+### Phsychological Components of Social Engineering
+* **Authority**: The actor acts as an individual of authority.
+* **Intimidation**: Frightening or threatening the victim.
+* **Consensus**: Convince based on what's normally expected.
+* **Scarcity**: Limited resources and time to act.
+* **Familiarity**: The victim is well known.
+* **Trust**: Gain their confidence, be their friend.
+* **Urgency**: Limited time to act, rush the victim.
+
+
 🟢 **Phishing**  
 
 Is when an attacker attempts to obtain sensitive information (such as usernames, passwords, credit card numbers and details about the user's bank accounts) from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.  
