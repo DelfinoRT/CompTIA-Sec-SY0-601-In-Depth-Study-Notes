@@ -103,11 +103,17 @@ a hoax can be damaging if it causes users to take some actions that weakens the 
 Users should be trained to be suspicious of unusual e-mails and stories and should validate the information with the system administrators or the company's security entities.  
 
 🟢 **Impersonation**  
+In this technique an attacker assumes a role that is recognized by the target, the attackeruses the target's biases agains their better judgement to follow procedures.  
+Impersonation can ocurr in different ways, from third party contractors to help desk agents, to vendors or even to online resources.
 
-When an attacker directly observes the individual entering sensitive information on  form, key, pad, or keyboard.
+* **Third-Party Authorization**  
 
-🟢 **Shoulder Surfing**  
+Using previous information about a project, deadlines, bosses, etc., the atacker arrives or comes up with something that the victim will see as normal or expected.  
+The attacker is viewed as helpful or someone not to upset, the main goal is to create the appearance of a third-party authorization when there is none.  
 
-When an attacker directly observes the individual entering sensitive information on  form, key, pad, or keyboard.
+* **Contractors/Outside Parties**  
+
+It is common nowadays to have outside contractors clean the building, water the plants, or perform other routine chores.  
+Without proper safeguard or policies, an attacker can simply put on clothing that matches a contractor's uniform, show up to do the expected job at a slightly different time than it's usually done, roaming the halls unnoticed while gathering information of the target system/environment.
 
 
