@@ -13,4 +13,35 @@
 
 Is when an attacker attempts to obtain sensitive information (such as usernames, passwords, credit card numbers and details about the user's bank accounts) from users by masquerading as a trusted entity in an e-mail or instant message sent to a large group of often random users.  
 The message encourages the user to visit a website that appears to be for a reputable entity.   
-The information gathered by the attacker is oftenly used to steal the user's money, credentials or identity.
+The information gathered by the attacker is oftenly used to steal the user's money, credentials or identity.  
+Phishing is the most common form of social engineering attacks related to computer security.  
+
+🟢 **Smishing**  
+
+It is a version of phishing and the an attack is performed using Short Message Service (SMS).  
+The SMS usually directs the user to a website that can serve as a vector for different attack types including malware injection.  
+This attack works primarily due to the use of urgency and intimidation in the message.  
+
+🟢 **Vishing**  
+
+It is another variation of phishing that uses voice communication to obtain information from the target.  
+This technique takes advantage of the trust that some people place in the telephone network.  
+We must be aware that attackers can spoof (simulate) calls from legitimate entities using VoIP technology.  
+
+🟢 **Spam**  
+
+Spam references to bulk unsolicited e-mail, this email can be malicious and could include attachments that contain malicious software designed to harm systems or link to malicious websites.  
+
+🟢 **Spam over Instant Messaging (SPIM)**  
+
+It is basically spam delivered via instant messaging applications, the purpose of hostile SPIM is the same as that of spam.  
+
+🟢 **Spear Phishing**  
+
+This refers to a phishing attack that targets a specific person or group of people with something in common.  
+Usually the attack is customized to the target after previous data gathered from that user or group.  
+
+🟢 **Dumpster Diving**  
+
+This is the process of going through a target's trash searching for valuable information that might be used in an attack.  
+To reduce risks, an organization should have policies about discarting materials. Sensitive information should be shredded and the organization should consider securing the trash receptacle so that individuals can't forage through it.
