@@ -25,7 +25,7 @@ Social engineering is very successful for two general reasons:
 
 ### Defenses
 * Stopping social engineering begins with policies and procedures that eliminate the pathways used by the attacks.
-* Visitor access rules, costumer support guidelines, verifying requests for legitimacy.|
+* Visitor access rules, costumer support guidelines, verifying requests for legitimacy.
 * Employee training, frequent reminders, retraining  programs, awareness campaigns.
 * Have multiple layers of defenses including approvals and authentication processes.
 
