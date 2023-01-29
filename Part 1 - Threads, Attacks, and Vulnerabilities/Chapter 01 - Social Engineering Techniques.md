@@ -44,4 +44,4 @@ Usually the attack is customized to the target after previous data gathered from
 🟢 **Dumpster Diving**  
 
 This is the process of going through a target's trash searching for valuable information that might be used in an attack.  
-To reduce risks, an organization should have policies about discarting materials. Sensitive information should be shredded and the organization should consider securing the trash receptacle so that individuals can't forage through it.
+To reduce risks, an organization should have policies about discarting materials. Sensitive information should be shredded and the organization should consider securing the trash receptacle so that individuuals can't forage through it.
