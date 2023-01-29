@@ -7,7 +7,12 @@
 * A social engineer preys on people's beliefs, biases, and stereotypes.  
 * This is hacking the human side of a system, isan attack agains the user and involves some form of ocial interaction.
 * The best defense agains social engineering attacks is a comprehensive training and awareness program.  
-* The tools to perform social engineering attacks are based on a knowledge of psychology and usually don't require a sophisticted knowledge of software or hardware.
+* The tools to perform social engineering attacks are based on a knowledge of psychology and usually don't require a sophisticted knowledge of software or hardware.  
+
+### Principles (Reasons for Effectiveness)  
+Social engineering is very successful for two general reasons:  
+* The first is the basic desire of most people to be helpful. The problem with this is that seemingly innocuous information can be used either directly in an attack or indirectly to build a bigger picture that an attacker can use to create an aura of authenticity during an attack.  
+* The second reason is that individuals normally seek to avoid confrontation and trouble. Usually the attacker attempts to intimidate the victim, threatening to call the victim's supervisor because of lack of help, the victim may give in and provide the information to avoid confrontation.
 
 🟢 **Phishing**  
 
@@ -133,7 +138,21 @@ The typical attack vector will be a zero-day attack or vulnerability to furthr a
 
 Is an attack form that involves capitalizing upon common typographical errors.   
 The attacker registers mistyped URLs so the victim will land on the attacker's website to perform a chained attack such as phishing, impersonating, credential harvesting or malware infection.  
-This attack is also referred as URL hijjacjking, fake URL, or brandjacking
+This attack is also referred as URL hijjacjking, fake URL, or brandjacking.  
+
+
+🟢 **Pretexting**  
+
+This occurs when the attacker uses a narrative (pretexg) to influence the victim into giving up some information.  
+The pretext does not have to be true, it only needs to be believable and its main goal is to gain the target's trust and exploit it.  
+
+
+🟢 **Influence Campaigns**  
+
+Involves the use of collected information and selective publication of material in an attempt to alter perceptions and change people's minds on a topic.  
+This attack becomes more powerful when used in conjunction with social media to spread influence.   
+Nation states have used this technique as a form of conflict (hybrid warfate), in previous wars this was known as "propaganda".  
+The information is used to sway people towards a position favoring those spreading it.
 
 
 
