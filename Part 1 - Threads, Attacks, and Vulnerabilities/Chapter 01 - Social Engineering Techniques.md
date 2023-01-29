@@ -104,7 +104,9 @@ Users should be trained to be suspicious of unusual e-mails and stories and shou
 
 🟢 **Impersonation**  
 In this technique an attacker assumes a role that is recognized by the target, the attackeruses the target's biases agains their better judgement to follow procedures.  
-Impersonation can ocurr in different ways, from third party contractors to help desk agents, to vendors or even to online resources.
+Impersonation can ocurr in different ways, from third party contractors to help desk agents, to vendors or even to online resources.  
+The best defence is simple: have processes in place that require employees to see a person's ID before engaging with them if the employees do not know them, this includes people such as delivery drivers.  
+In addition to having policies, regular training and continuous awarenes programs has proven to be effective.  
 
 * **Third-Party Authorization**  
 
@@ -114,6 +116,25 @@ The attacker is viewed as helpful or someone not to upset, the main goal is to c
 * **Contractors/Outside Parties**  
 
 It is common nowadays to have outside contractors clean the building, water the plants, or perform other routine chores.  
-Without proper safeguard or policies, an attacker can simply put on clothing that matches a contractor's uniform, show up to do the expected job at a slightly different time than it's usually done, roaming the halls unnoticed while gathering information of the target system/environment.
+Without proper safeguard or policies, an attacker can simply put on clothing that matches a contractor's uniform, show up to do the expected job at a slightly different time than it's usually done, roaming the halls unnoticed while gathering information of the target system/environment.  
+
+* **Online Attacks**  
+
+This refers to the use of impersonation employed in online attacks: pop-ups, phishing, social media scams, etc.  
+
+🟢 **Watering Hole Attack**  
+
+Attackers can plant malware at sites where users are likely to frequent.  
+This attack invilves infecting of a target website with different types of malware.
+This technique is complex to achieve and appear to be backed by nation-states and other high-resource attackers.  
+The typical attack vector will be a zero-day attack or vulnerability to furthr avoid detection.  
+
+🟢 **Typosquatting**  
+
+Is an attack form that involves capitalizing upon common typographical errors.   
+The attacker registers mistyped URLs so the victim will land on the attacker's website to perform a chained attack such as phishing, impersonating, credential harvesting or malware infection.  
+This attack is also referred as URL hijjacjking, fake URL, or brandjacking
+
+
 
 
