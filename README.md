@@ -1,2 +1,2 @@
 # CompTIA-Sec-SY0-601-In-Depth-Study-Notes
-3bsHYHMj4xyKyfPHP1NfPMYGF4SG2M5DX3VN9eEPRWdd
+[GitHub Styling](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
