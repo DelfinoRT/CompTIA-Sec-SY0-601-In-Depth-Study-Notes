@@ -97,7 +97,7 @@ This type of attack can take place at two levels: it can attack a system to gues
 * Offline: Perform hash comparisons agains a stolen password file, oftenly high-performance GPU-based parallel machines are used at very high rates and against multiple accounts at the same time.  
 * Online: When the brute force attack occurs in real time agains a system, it is frequently neing done to attack a single account with multiple sets of passwords.  
 
-🟢 **Rainbow tables**  
+🟢 **Rainbow Tables**  
 Are precomputed hash values associated with passwords, this changes the search for a password from a computational problem to a lookup problem.  
 Large pre-generated data sets of encrypted passwords used in password attacks.  
 The best defense agains rainbow tables is salted hashes (a random set of characters designed to increase the lenght of the item being hashed).
@@ -108,5 +108,16 @@ The goal is to guess the secret key (or a number of secret keys) or to develop a
 
 ## Physical Attacks
 
-🟢 **Rainbow tables**  
-A type of attack where the threat actor has both the plaintext and its encrypted version.
+🟢 **Malicious USB Cable**  
+A USB cable can have embedded electronics that could deliver malware to machines.
+
+🟢 **Malicious Flash Drives**  
+Infected USB devices for people to pick up and use on their systems, the attack is automate once the victims make use of these devices.
+
+🟢 **Card Cloning**  
+During the attack, the information is copied from the magnetic strip on the card, enabling the attacker to make a clone of it.  
+In contactless cards (NFC), the chip is read, information copied and then the clone implemented.  
+
+🟢 **Skimming**  
+This attack relies on physical devices build to intercept a credit card and are placed on card readers to skim the data while passing to the legitimate reader behind the skimming device.  
+Skimmers can collet all the information from the magnetic strip as well as the PIN being entered.  
