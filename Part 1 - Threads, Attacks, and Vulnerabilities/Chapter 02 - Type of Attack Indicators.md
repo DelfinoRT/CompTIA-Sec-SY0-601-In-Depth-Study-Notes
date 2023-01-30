@@ -32,10 +32,26 @@ A worm usually has the same impact as a virus.
 
 * The important distinction is whether the code has to attach itself to something else (**virus**) or if it can "survive" on its own (**worm**).  
 
-## Potentially Unwanted Programs (PUPs)  
-* These are programs that may have adverse effects on a computer's security or privacy.  
-* Frequently PUPs involve adware or spyware components and are uses for revenue generarion purposes.  
+🟢 **Potentially Unwanted Programs (PUPs)** 
+These are a form of malware that may have adverse effects on a computer's security or privacy.  
+Frequently PUPs involve adware or spyware components and are uses for revenue generarion purposes.  
+Some of the undesired characteristics cause by PUPs are: Slowing down the computer, displaying a ton of annoying ads, adding toolbars and steal space on the browser, collecting private information.  
 
-🟢 **Viruses**  
-A type of malware that, when executed, replicates itself by modifying other computer programs and inserting its own code into those programs.  
-The nature of a virus implies that it reproduces by itself without user interaction but it is dependant on other software to attach and spread.  
+🟢 **Fileless Viruses**  
+A piece of malware that operates only in memory, never touching the filesystem, this makes it much harder to detect.  
+Also known as memory-based malware attack.  
+Fileless viruses continue to run until the device is powered down.  
+
+🟢 **Command and Control**  
+This revers to a server program used by hackers to control malware that has been launched agains targets.  
+The attacker manages multiple malware elements on multiple systems under various IDs from the command and control server (botnet).  
+
+🟢 **Bots**  
+A piece of software that performs some task under the control of another program.   
+A series of bots is controlled across the network in a group, and the entire assembly is called a botnet.  
+
+🟢 **Crypto-malware**  
+A piece of software that performs some task under the control of another program.   
+A series of bots is controlled across the network in a group, and the entire assembly is called a botnet.  
+
+
