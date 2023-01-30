@@ -121,3 +121,19 @@ In contactless cards (NFC), the chip is read, information copied and then the cl
 🟢 **Skimming**  
 This attack relies on physical devices build to intercept a credit card and are placed on card readers to skim the data while passing to the legitimate reader behind the skimming device.  
 Skimmers can collet all the information from the magnetic strip as well as the PIN being entered.  
+
+## Adversarial AI (Artificial Intelligence)
+Attackers can use AI-enabled tools to improve their attacks, generally to avoid machine detection or to increase computation caoabilities.
+
+🟢 **Tainted Training Data for Machine Learning (ML)**  
+Works by using a training data ser to calibrate the detection model to enable detection of sample data.  
+The ability of the model to detect threats is a direct relation of the efficacy and quality of the training data set.  
+The ML algorithm needs persistent retraining or updating to make it effective agains differing inputs.  
+
+## Supply-Chain Attacks
+In the case of a computer, the supply chain provides the parts or devices that make the computer or system work.  
+In the case of a program, the programmers are one part, but the libraries they use are another.   
+The parts that are used can be tainted, either by accident or on purpose this would cause the final product to have vulnerabilities.  
+
+## Cloud-Based vs On-Premise Attacks
+
