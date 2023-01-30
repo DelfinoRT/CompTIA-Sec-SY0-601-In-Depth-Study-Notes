@@ -44,14 +44,69 @@ Fileless viruses continue to run until the device is powered down.
 
 🟢 **Command and Control**  
 This revers to a server program used by hackers to control malware that has been launched agains targets.  
-The attacker manages multiple malware elements on multiple systems under various IDs from the command and control server (botnet).  
+The attacker manages multiple malware elements on multiple systems under various IDs from the command and control server.  
 
 🟢 **Bots**  
-A piece of software that performs some task under the control of another program.   
-A series of bots is controlled across the network in a group, and the entire assembly is called a botnet.  
+A piece of software that performs specific actions as a part of a larger entity known as a botnet.  
+A series of bots is controlled across the network in a group by using command and control servers, and the entire assembly is called a botnet.  
 
 🟢 **Crypto-malware**  
-A piece of software that performs some task under the control of another program.   
-A series of bots is controlled across the network in a group, and the entire assembly is called a botnet.  
+A program that installs without the user being aware of it and designed to use system resources to mine cryptocurrency.  
+This is a thef-of-services attack where the threat actor is using the CPU cycles of someone else's computer to do crypto mining.  
 
+🟢 **Logic Bombs**  
+A type of malware that is deliberately installed, generally by an authorized user and sits dormant for a period of time until some event or date invokes its malicious payload.  
+Logic bombs are difficult to detect because they are often installed by authorized users or administrators from a system.  
 
+🟢 **Spyware**  
+Software that "spies" on users , recording and reporting on their activities without user's knowledge.  
+Soecifically designed to steal information.  
+
+🟢 **Keylogger**  
+Software that logs all of the keystrokes that a user enters on the infected machine.  
+
+🟢 **Remote-Access Trojan (RAT)**  
+A toolkit designed to provide the capability of hide a surveillance process on a device or gain unauthorized access to a system.  
+A RAT employs malware to infect a system and has an operator behind it and guiding it to cause persistent damage (Remotely operated trojan).  
+RATs typically involve the creation of hidden file structures on a system.  
+
+🟢 **Rootkit**  
+A malware designed to modify the operation of the operating system to facilitate nonstandard functionality.  
+A rootkit can do virtually anything on the infected operating system as it can modify the kernel and support functions to avoid detection and alter the security functions of the operating system.  
+Allows the threat actor to maintain command and control over a computer through a backdoor.
+Five types/levels of rootkit exist: Firmware, Virtual, Kernel, Library, and application level.
+
+🟢 **Backdoor**  
+Programs installed after attackers gaining unauthorized access to a system to ensure that they can continue to have unrestricted access to it.  
+
+## Password Attacks
+
+🟢 **Spraying**  
+An attack that uses a limited number of commonly used passwords and applies them to a large number of accounts.  
+
+🟢 **Dictionary**  
+A password-cracking method that employs programs with a list of dictionary words to try to guess the password.  
+The password can be used by themselves, or two or more smaller words can be combined to form a single possible password.  
+These programs often permit the attacker to create rules that tell the program how to combine words or substite special characters for other characters.  
+
+🟢 **Brute Force**  
+A method where the program used attempts all possible password combinations including those not found on a dictionary.  
+The length of the password and the size of the ser of possible characters in the password will greatly affect the time a brute force attack will take.  
+This type of attack can take place at two levels: it can attack a system to guess the password at a login prompt or it can attack password files and the password hashes contained on them.
+
+* Offline: Perform hash comparisons agains a stolen password file, oftenly high-performance GPU-based parallel machines are used at very high rates and against multiple accounts at the same time.  
+* Online: When the brute force attack occurs in real time agains a system, it is frequently neing done to attack a single account with multiple sets of passwords.  
+
+🟢 **Rainbow tables**  
+Are precomputed hash values associated with passwords, this changes the search for a password from a computational problem to a lookup problem.  
+Large pre-generated data sets of encrypted passwords used in password attacks.  
+The best defense agains rainbow tables is salted hashes (a random set of characters designed to increase the lenght of the item being hashed).
+
+🟢 **Plaintext/Unencrypted**  
+A type of attack where the threat actor has both the plaintext and its encrypted version.  
+The goal is to guess the secret key (or a number of secret keys) or to develop an algorithm which would allow to decrypttion if the password.  
+
+## Physical Attacks
+
+🟢 **Rainbow tables**  
+A type of attack where the threat actor has both the plaintext and its encrypted version.
