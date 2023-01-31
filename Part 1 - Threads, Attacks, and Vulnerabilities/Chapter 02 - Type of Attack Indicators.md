@@ -31,7 +31,7 @@ A worm usually has the same impact as a virus.
 
 * The important distinction is whether the code has to attach itself to something else (**virus**) or if it can "survive" on its own (**worm**).  
 
-## **Potentially Unwanted Programs (PUPs)** 
+🟢 **Potentially Unwanted Programs (PUPs)** 
 These are a form of malware that may have adverse effects on a computer's security or privacy.  
 Frequently PUPs involve adware or spyware components and are used for revenue generarion purposes.  
 Some of the undesired characteristics cause by PUPs are: Slowing down the computer, displaying a ton of annoying ads, adding toolbars and steal space on the browser, collecting private information.  
