@@ -30,7 +30,7 @@ Social engineering is very successful for two general reasons:
 * Have multiple layers of defenses including approvals and authentication processes.
 
 
-## Social Engineering Techniques
+## **Social Engineering Techniques**
 
 🟢 **Phishing**  
 
