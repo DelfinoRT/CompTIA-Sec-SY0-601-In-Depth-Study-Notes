@@ -5,13 +5,12 @@
 * Each type of attack threatens at least one of the three security requirements: Confidentiality, Integrity, and Availability (the CIA of security).  
 * Attacks on computer systems and networks can be grouped into two broad categories: attacks on specific software (applications or operating systems), and attacks on specific protocol or service.  
 
-## Malware
+## **Malware**
 * Refers to software that has been designed to cause damage to a system or to create a backdoor into the system to grant access to unauthorized individuals.
 * The installation of malware is done so that it is not obvious to the authorized users.  
 
 🟢 **Ransomware**  
-
-This type of malwaare typically encrypt files on a system and then leaves them unusuable either permanently, acting as a denial of service, or temporarily until a ransom is paid.  
+This type of malwaare typically encrypt files on a system and then leaves them unusuable either permanently (acting as a denial of service) or temporarily until a ransom is paid.  
 Ransom is typically a worm, completely automated and can be spread through a phishing email or unknowingly infected website.  
 
 🟢 **Trojan**  
@@ -22,7 +21,7 @@ Many trojans communicate with the outside through a port that the trojan opens, 
 🟢 **Virus**  
 A type of malware that, when executed, replicates itself by modifying other computer programs and inserting its own code into those programs.  
 The nature of a virus implies that it reproduces by itself without user interaction but it relies on other software to attach and spread.  
-Once a system is "infected", the virus is capable causing a detrimental effect, such as corrupting the system, destroying data, exploiting operating system vulnerabilities, consuming bandwidth, overloading web servers, etc.  
+Once a system is "infected", the virus is capable of causing a detrimental effect, such as corrupting the system, destroying data, exploiting operating system vulnerabilities, consuming bandwidth, overloading web servers, etc.  
 
 🟢 **Worm**  
 Pieces of code that attempt to penetrate networks and computer systems.  
@@ -32,9 +31,9 @@ A worm usually has the same impact as a virus.
 
 * The important distinction is whether the code has to attach itself to something else (**virus**) or if it can "survive" on its own (**worm**).  
 
-🟢 **Potentially Unwanted Programs (PUPs)** 
+## **Potentially Unwanted Programs (PUPs)** 
 These are a form of malware that may have adverse effects on a computer's security or privacy.  
-Frequently PUPs involve adware or spyware components and are uses for revenue generarion purposes.  
+Frequently PUPs involve adware or spyware components and are used for revenue generarion purposes.  
 Some of the undesired characteristics cause by PUPs are: Slowing down the computer, displaying a ton of annoying ads, adding toolbars and steal space on the browser, collecting private information.  
 
 🟢 **Fileless Viruses**  
@@ -43,12 +42,12 @@ Also known as memory-based malware attack.
 Fileless viruses continue to run until the device is powered down.  
 
 🟢 **Command and Control**  
-This revers to a server program used by hackers to control malware that has been launched agains targets.  
+This refers to a server program used by hackers to control malware that has been launched agains targets.  
 The attacker manages multiple malware elements on multiple systems under various IDs from the command and control server.  
 
 🟢 **Bots**  
-A piece of software that performs specific actions as a part of a larger entity known as a botnet.  
-A series of bots is controlled across the network in a group by using command and control servers, and the entire assembly is called a botnet.  
+A piece of software that performs specific actions as a part of a larger entity, the entire assembly is called a botnet.  
+A series of bots is controlled across the network in a group by using command and control servers.  
 
 🟢 **Crypto-malware**  
 A program that installs without the user being aware of it and designed to use system resources to mine cryptocurrency.  
@@ -59,8 +58,13 @@ A type of malware that is deliberately installed, generally by an authorized use
 Logic bombs are difficult to detect because they are often installed by authorized users or administrators from a system.  
 
 🟢 **Spyware**  
-Software that "spies" on users , recording and reporting on their activities without user's knowledge.  
-Soecifically designed to steal information.  
+Software that "spies" on users, recording and reporting on their activities without user's knowledge.  
+Specifically designed to steal information.  
+
+🟢 **Adware**  
+A form of malware that hides on deviced and serves advertisements.  
+Some adware also monitors user behavior online so it can target with specific ads.  
+This is software generates revenue for its developer by automatically generating online advertisements in the user interface.  
 
 🟢 **Keylogger**  
 Software that logs all of the keystrokes that a user enters on the infected machine.  
@@ -79,7 +83,7 @@ Five types/levels of rootkit exist: Firmware, Virtual, Kernel, Library, and appl
 🟢 **Backdoor**  
 Programs installed after attackers gaining unauthorized access to a system to ensure that they can continue to have unrestricted access to it.  
 
-## Password Attacks
+## **Password Attacks**
 
 🟢 **Spraying**  
 An attack that uses a limited number of commonly used passwords and applies them to a large number of accounts.  
@@ -106,7 +110,7 @@ The best defense agains rainbow tables is salted hashes (a random set of charact
 A type of attack where the threat actor has both the plaintext and its encrypted version.  
 The goal is to guess the secret key (or a number of secret keys) or to develop an algorithm which would allow to decrypttion if the password.  
 
-## Physical Attacks
+## **Physical Attacks**
 
 🟢 **Malicious USB Cable**  
 A USB cable can have embedded electronics that could deliver malware to machines.
@@ -130,10 +134,30 @@ Works by using a training data ser to calibrate the detection model to enable de
 The ability of the model to detect threats is a direct relation of the efficacy and quality of the training data set.  
 The ML algorithm needs persistent retraining or updating to make it effective agains differing inputs.  
 
-## Supply-Chain Attacks
+## **Supply-Chain Attacks**
 In the case of a computer, the supply chain provides the parts or devices that make the computer or system work.  
 In the case of a program, the programmers are one part, but the libraries they use are another.   
 The parts that are used can be tainted, either by accident or on purpose this would cause the final product to have vulnerabilities.  
 
-## Cloud-Based vs On-Premise Attacks
+## **Cloud-Based vs On-Premise Attacks**  
+Attacks against data can happen whether the system is in house (on-premise) or in the cloud (cloud-based).  
+Using cloud computing to improve security only works if the cloud vendor offers security solutions as part of the package.  
 
+## **Cryptographic Attacks**  
+These are attacks against the cryptographic system/algorithm itself.  
+The attacks are designed to take advantage of two specific weaknesses:
+* First, the users generally view cryptographic as incomprehensible stuff, leading to trust the results without any more reasons.  
+* Second, Frequently happens that developers overlook algorithm weaknesses so no further work to improve it or fix it is done.  
+
+🟢 **Birthday Attack**  
+A brute force attack that got its name from the birthday paradox which states that in a group of at least 23 people, the chance that two individuals woll have the same birthday is greater than 50%.  
+The success of this attack largely depends upon the higher likelihood of collisions found between random attack attempts and a fixed degree of permutations.  
+The birthday attack is used to create hash collisions and find a specific input with a hash that collides with another input.  
+
+🟢 **Collision**  
+This is where 2 different inputs yield the same output of a hash function.  
+Through the manioulation of data, subtle changes are made to create different versions of a digital file.  
+By creating many different versions of the file and using a birthday attack to find a collision between the versions, the attacker could create a file with visible changed content but identical hashes.
+
+🟢 **Downgrade**  
+This attack method take advantage of commonly employed principle to support backward compatibility and to downgrate the security system to a lower or nonexistent state.  
