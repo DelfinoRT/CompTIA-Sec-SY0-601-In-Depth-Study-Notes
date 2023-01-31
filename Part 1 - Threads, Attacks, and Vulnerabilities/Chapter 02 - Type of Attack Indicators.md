@@ -127,7 +127,7 @@ This attack relies on physical devices build to intercept a credit card and are 
 Skimmers can collet all the information from the magnetic strip as well as the PIN being entered.  
 
 ## Adversarial AI (Artificial Intelligence)
-Attackers can use AI-enabled tools to improve their attacks, generally to avoid machine detection or to increase computation caoabilities.
+Attackers can use AI-enabled tools to improve their attacks, generally to avoid machine detection or to increase computation capabilities.
 
 🟢 **Tainted Training Data for Machine Learning (ML)**  
 Works by using a training data ser to calibrate the detection model to enable detection of sample data.  
