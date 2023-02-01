@@ -4,16 +4,16 @@
 I just started studying to take the Security+ Certification exam later this year and I consider that a good way to learn is by reading and taking notes, this repository will keep the notes I take.  
 
 ## Exam Objectives
-   * Threats, Attacks, and Vulnerabilities
-   * Technologies and Tools
-   * Architecture and Design
-   * Identity and Access Management
-   * Risk Management
-   * Cryptography and PKI
-   * Network Security
-   * Compliance and Operational Security
-   * Software Defined Security
-   * Disaster Recovery and Business Continuity
+* Threats, Attacks and Vulnerabilities: Understanding various types of security threats, attacks, and vulnerabilities.
+* Technologies and Tools: Knowledge of security technologies and tools, such as firewalls, intrusion detection and prevention systems, security information and event management (SIEM) systems, and more.
+* Architecture and Design: Understanding of security architecture and design, including risk management and business continuity planning.
+* Identity and Access Management: Knowledge of identity and access management concepts, including authentication, authorization, and identity federation.
+* Risk Management: Understanding of risk management, including risk assessment and mitigation strategies.
+* Cryptography: Knowledge of cryptography and its role in information security, including encryption and digital signatures.
+* Network Security: Understanding of network security, including secure network design, secure protocols, and secure network devices.
+* Compliance and Operational Security: Knowledge of compliance requirements and operational security, including security policies and procedures.
+* Software Development Security: Understanding of software development security, including secure coding practices and secure software design.
+* Incident Response and Disaster Recovery: Understanding of incident response and disaster recovery, including incident response planning and disaster recovery procedures
 
 The exam measures your ability to identify and understand security concepts, install and configure systems to secure applications, networks, and devices, as well as effectively respond to security incidents.
 
