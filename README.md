@@ -1,7 +1,7 @@
 # CompTIA-Sec-SY0-601-In-Depth-Study-Notes
 
 ## What's this about?
-I just started studying to take the Security+ Certification later this year and I consider that a good way to learn is by reading and taking notes, this repository will keep the notes I take.  
+I just started studying to take the Security+ Certification exam later this year and I consider that a good way to learn is by reading and taking notes, this repository will keep the notes I take.  
 
 ## Exam Objectives
    * Threats, Attacks, and Vulnerabilities
