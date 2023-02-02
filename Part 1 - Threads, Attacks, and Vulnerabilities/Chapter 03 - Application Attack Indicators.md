@@ -157,14 +157,17 @@ Is an attack on a system by changing drivers code, thus changing the behaviour o
 Drivers sit between the hardware and the operating system itself, thisus a great place to put a piece of malicious software.  
 
 🟢 **Shimming**  
+
 Application shimming is a Windows Application Compatibility framework that Windows created to allow programs to run on versions of the OS that they were not initially created to run on.
 Shimmng is the process of addig malware to the Windows Application Compatibility framework, allowing attackers to intercept an API and change the arguments passed, redirect the operation or handle the data in some other way, thus bypassing system's security measures.   
 
 🟢 **Refactoring**  
+
 This refers to the process of restructuting existing computer code without changing its external behaviour.  
 Refactoring can uncover design flaws that lead to exploitable vulnerabilities in which an attacker can add functionallity to a driver yet mantaining its desired operation.  
 
 🟢 **Pass the Hash**  
+
 A technique that allows an attacker to authenticate to a remote server or service by using the underlying hash of a user's password, instead of requiring the associated plaintext password as is normally the case. It replaces the need for stealing the plaintext password to gain access with stealing the hash.  
 he attacker captures the hash used to authenticate a process then injecting that captured hash into a process in place of the actual password.  
 The attack exploits an implementation weakness in the authentication protocol, where password hashes remain static from session to session until the password is next changed.  
