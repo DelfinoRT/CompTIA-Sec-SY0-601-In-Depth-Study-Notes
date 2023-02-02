@@ -14,9 +14,9 @@ This is one of the most common attack methodologies.
 The cause of the vulnerability is weak user input validation. If input is not validated properly, an attacker can include a script in the inputs and have it rendered as part of the web process.  
 Input validation (data validation) is used to prevent XSS attacks.  
 There are different types of XSS attacks:  
-  * Non-persistent XSS attack: The injected script is not persisted or stored but rather is immediately executed and passed back via the web server.
-  * Persisten XSS attack: The script is permanently stored on the web server or some back-end storage, this allows the script to be used against others who access the system.
-  * DOM-based XSS attack: The script is executed in the browser via the Document Object Model (DOM) process as opposed to the web server.
+  * **Non-persistent XSS attack**: The injected script is not persisted or stored but rather is immediately executed and passed back via the web server.
+  * **Persisten XSS attack**: The script is permanently stored on the web server or some back-end storage, this allows the script to be used against others who access the system.
+  * **DOM-based XSS attack**: The script is executed in the browser via the Document Object Model (DOM) process as opposed to the web server.
 
 Common uses:
   * Theft of authentication information from a web application
