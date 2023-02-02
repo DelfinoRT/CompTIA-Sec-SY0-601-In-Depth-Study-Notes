@@ -32,7 +32,7 @@ Common uses:
 
 This happens when untrusted (unvalidated) inputs or unauthorized code are “injected” into an application and interpreted as part of a query or command. The result is an alteration of the software, redirecting it for a nefarious purpose.  
 
-*Input validation* is especially well suited for many vulnerabilities including: buffer overflow, XSS, XSRF, path traversal, and some more.
+**Input validation** is especially well suited for many vulnerabilities including: buffer overflow, XSS, XSRF, path traversal, and some more.
 
 🟢 **SQL Injection**  (Structured Query Language)  
 
@@ -98,3 +98,33 @@ During an exception, it is common practice to record/report the condition, typic
 The best method to defend agains this is to captire the errors/exceptions in a log file were it can be secured by an access control list (ACL).  
 The worst methid is to echo the information to the user.  
 
+🟢 **Reply Attacks**  
+
+A replay attack is a form of network attack (man-in-the-middle attack) against applications in which valid data transmission is captured and maliciously or fraudulently repeated or delayed, what was valid before may well be valid again. 
+
+🟢 **Session Replay**  
+
+When a user connects to a system via the web, the connection forms a "session" that keeps record of the interaction and the various elements that are transmitted back and forth from client-server interaction.  
+A session replay event is the re-creation of the interaction after it has occurred. 
+
+🟢 **Integer Overflow**  
+
+A programming error conditon that occurs when a program attempts to store a numeric value, which is an integer, in a variable that is too small to hold it.  
+This can create significant logic errors in a program.  
+
+## **Request Forgery**  
+
+A class of attacks where a user performs a state-changing action on behalf of another user, typically without their knowledge.  
+These attacks explit the caracteristics of web-based protocols and browsers.  
+
+🟢 **Server Side Request Forgery (SSRF)**  
+
+An exploit where an attacker abuses the functionality of a server causing it to access or manipulate information in the realm of that server that would otherwise not be directly accessible to the attacker.  
+Common attacks include having the server attack itself or attack another server in the organization.  
+The attacker targets an application that supports data imports from URLs or allows them to read data from URLs. URLs can be manipulated, either by replacing them with new ones or by tampering with URL path traversal.
+
+🟢 **Cross-Site Request Forgery (SCRF, XSRF, “Sea Surf”, Session Riding, Cross-Site Reference Forgery, and Hostile Linking)**  
+
+An attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.  
+For most sites, browser requests automatically include any credentials associated with the site, such as the user’s session cookie, IP address, Windows domain credentials, and so forth. Therefore, if the user is currently authenticated to the site, the site will have no way to distinguish between the forged request sent by the victim and a legitimate request sent by the victim.  
+A successful CSRF attack can force the user to perform state changing requests like transferring funds, changing their email address, and so forth. If the victim is an administrative account, CSRF can compromise the entire web application.
