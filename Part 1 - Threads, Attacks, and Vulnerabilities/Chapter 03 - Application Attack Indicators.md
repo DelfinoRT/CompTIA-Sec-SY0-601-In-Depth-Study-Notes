@@ -26,7 +26,10 @@ Common uses:
   * Impersonating a user
   * Phishing or stealing sensitive information  
 
-🟢 **Injection Attacks**  
-Most attacks begin at a privilege level associated with an ordinary user. From this level, the attacker exploits vulnerabilities that enable them to achive root or admin level access. This step is called privilege escalation.  
-The act of exploiting a bug, a design flaw, or a configuration oversight in an operating system or software application to gain elevated access to resources that are normally protected from an application or user.  
-A method to limit the attack surface of this attack is to reduce the processes and services that run in elevated mode.  
+### **Injection Attacks**  
+This happens when untrusted (unvalidated) inputs or unauthorized code are “injected” into an application and interpreted as part of a query or command. The result is an alteration of the software, redirecting it for a nefarious purpose.
+
+🟢 **SQL Injection**  
+Is a form of code injection aimed at any SQL-based database. 
+An example of this attack is where the function takes the user-provided inputs for username and password and substitutes them in a **where** clause of a SQL statement with the express purpose of changing the **where** clause into one that gives a false answer to the query.  
+The addition of **or** clauses, with an **always true** statement and the beginning of a comment line to block the trialing single quptes, alters the SQL statement to one in which the **where** clause is rendered inoperable, this might lead to a data breach if the **where** clause is altered to return records.  
