@@ -100,7 +100,7 @@ The worst methid is to echo the information to the user.
 
 🟢 **Reply Attacks**  
 
-A replay attack is a form of network attack (man-in-the-middle attack) against applications in which valid data transmission is captured and maliciously or fraudulently repeated or delayed, what was valid before may well be valid again. 
+A replay attack is a form of Man-in-the-Middle (MITM) attack against applications in which valid data transmission is captured and maliciously or fraudulently repeated or delayed, what was valid before may well be valid again. 
 
 🟢 **Session Replay**  
 
@@ -135,9 +135,36 @@ An attack where the attacker specifically attacks the API and the service behind
 An API attack can result in mass data losses, stolen private information and service disruption.  
 API security vulnerabilities include poor authentication and no data encryption.  
 
-🟢 **Resource Exhaustion** (Application Programming Interface)  
+🟢 **Resource Exhaustion**
 
-Reource exhaustion is the state where a system does not have all of the resources it needs to continue to function (memmory, bandwith, storage, etc.).  
-These types of attacks aim to deplete the system resources and when one of these resources becomes exhausted, failure can ensure and systen could crash.  
-Example: If a system has more TCP SYN request than it can handle, it will fail to complete handshakes and will disable additional connections.  
-Example: If a program runs out of memmory, it wil fail to operate correctly and the service will be denied.  
+Reource exhaustion is the state where a system does not have all of the resources it needs to continue to function (memory, bandwith, storage, etc.).  
+These types of attacks aim to deplete the system resources and when one of these resources becomes exhausted, an operational failure can ensure and systen could crash.  
+
+🟢 **Memory Leak**
+
+Errors in memory management can result in a memory leak, which can grow over time, consuming more and more resources.  
+This commonly occurs when there is no garbage collection routine in the program or it is failing to work properly.  
+
+🟢 **SSL Stripping** (Secure Sockets Layer)
+
+This is a Man-in-the-Middle (MITM) attack agains all SSL and early versions of TLS connections.  
+The attack is performed anywhere a MIM can happen, which makes wireless hotspots a prime location.  
+The attack works by intercepting the initial connection requests for HTTPS, redirecting it to an HTTP site and then mediating in the middle (Stripping away the encryption offered by HTTPS).
+
+🟢 **Driver Manipulation**
+
+Is an attack on a system by changing drivers code, thus changing the behaviour of the system it is installed to.  
+Drivers sit between the hardware and the operating system itself, thisus a great place to put a piece of malicious software.  
+
+🟢 **Shimming**
+Application shimming is a Windows Application Compatibility framework that Windows created to allow programs to run on versions of the OS that they were not initially created to run on.
+Shimmng is the process of addig malware to the Windows Application Compatibility framework, allowing attackers to intercept an API and change the arguments passed, redirect the operation or handle the data in some other way, thus bypassing system's security measures.   
+
+🟢 **Refactoring**
+This refers to the process of restructuting existing computer code without changing its external behaviour.  
+Refactoring can uncover design flaws that lead to exploitable vulnerabilities in which an attacker can add functionallity to a driver yet mantaining its desired operation.  
+
+🟢 **Pass the Hash**
+A technique that allows an attacker to authenticate to a remote server or service by using the underlying hash of a user's password, instead of requiring the associated plaintext password as is normally the case. It replaces the need for stealing the plaintext password to gain access with stealing the hash.  
+he attacker captures the hash used to authenticate a process then injecting that captured hash into a process in place of the actual password.  
+The attack exploits an implementation weakness in the authentication protocol, where password hashes remain static from session to session until the password is next changed.  
