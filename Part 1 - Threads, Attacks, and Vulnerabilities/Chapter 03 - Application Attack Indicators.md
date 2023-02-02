@@ -137,6 +137,7 @@ API security vulnerabilities include poor authentication and no data encryption.
 
 🟢 **Resource Exhaustion** (Application Programming Interface)  
 
-An attack where the attacker specifically attacks the API and the service behind it by manipulating inputs.  
-An API attack can result in mass data losses, stolen private information and service disruption.  
-API security vulnerabilities include poor authentication and no data encryption.  
+Reource exhaustion is the state where a system does not have all of the resources it needs to continue to function (memmory, bandwith, storage, etc.).  
+These types of attacks aim to deplete the system resources and when one of these resources becomes exhausted, failure can ensure and systen could crash.  
+Example: If a system has more TCP SYN request than it can handle, it will fail to complete handshakes and will disable additional connections.  
+Example: If a program runs out of memmory, it wil fail to operate correctly and the service will be denied.  
