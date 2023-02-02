@@ -49,7 +49,7 @@ This technique is used to exploit web applications which could reveal sensitive 
 XML injections can be used to manipulate an XML-based system and can cause the system configuration, changes in data streams, changes in outputs, etc.  
 This occurs when user-supplied input isn't validated or sanitized before it is added to a web application's XML documents; then they are processed and executed.  
 
-## ** **  
+##
 
 🟢 ****  (Extensible Markup Language)
 XML injections can be used to manipulate an XML-based system and can cause the system configuration, changes in data streams, changes in outputs, etc.  
