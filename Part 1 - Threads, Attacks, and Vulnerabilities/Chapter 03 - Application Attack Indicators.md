@@ -26,7 +26,8 @@ Common uses:
   * Impersonating a user
   * Phishing or stealing sensitive information  
 
-### **Injection Attacks**  
+## **Injection Attacks**  
+
 This happens when untrusted (unvalidated) inputs or unauthorized code are “injected” into an application and interpreted as part of a query or command. The result is an alteration of the software, redirecting it for a nefarious purpose.
 
 🟢 **SQL Injection**  
