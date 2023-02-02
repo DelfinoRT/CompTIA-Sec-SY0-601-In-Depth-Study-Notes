@@ -10,7 +10,7 @@ Most attacks begin at a privilege level associated with an ordinary user. From t
 The act of exploiting a bug, a design flaw, or a configuration oversight in an operating system or software application to gain elevated access to resources that are normally protected from an application or user.  
 A method to limit the attack surface of this attack is to reduce the processes and services that run in elevated mode.  
 
-🟢 **Cross-Site Scripting**  
+🟢 **Cross-Site Scripting (XSS)**  
 
 This is one of the most common attack methodologies.   
 The cause of the vulnerability is weak user input validation. If input is not validated properly, an attacker can include a script in the inputs and have it rendered as part of the web process.  
@@ -30,7 +30,9 @@ Common uses:
 
 ## **Injection Attacks**  
 
-This happens when untrusted (unvalidated) inputs or unauthorized code are “injected” into an application and interpreted as part of a query or command. The result is an alteration of the software, redirecting it for a nefarious purpose.
+This happens when untrusted (unvalidated) inputs or unauthorized code are “injected” into an application and interpreted as part of a query or command. The result is an alteration of the software, redirecting it for a nefarious purpose.  
+
+*Input validation* is especially well suited for many vulnerabilities including: buffer overflow, XSS, XSRF, path traversal, and some more.
 
 🟢 **SQL Injection**  (Structured Query Language)  
 
@@ -77,12 +79,22 @@ Buffer overflows can occur in any code, and code that runs with privilege has an
 
 🟢 **Race Condition**  
 
-Also called Time of Check to Time of Use, or TOCTTOU attacks, take advantage of the need that programs have to execute some tasks in a specific sequence. In any such sequence, there is a small period of time when the system has carried out the first task but not started on the second. If this period is long enough or the attacker is lucky and knowledgeable, a race condition vulnerability exists where an attacker can trick the system into carrying out unauthorized actions in addition to its normal processes.
+Also called Time of Check to Time of Use, or TOCTTOU attacks, take advantage of the need that programs have to execute some tasks in a specific sequence. In any such sequence, there is a small period of time when the system has carried out the first task but not started on the second. If this period is long enough or the attacker is lucky and knowledgeable, a race condition vulnerability exists where an attacker can trick the system into carrying out unauthorized actions in addition to its normal processes.  
+Race conditions can be used for privilege elevation and denial of servive attacks.  
+Developers can use reference counters, kernel locks, and thread synchronization to prevent race conditions.  
 There are two main ways this attack is carried out:
    * **Interference by an untrusted process**: The attacker inserts a piece of code in between the steps of a secure process.
    * **Interference by a trusted process**: The attacker exploits two different processes that share some state in common.
 
-🟢 **Race Condition**  
+🟢 **Improper Error Handling**  
 
-Also called Time of Check to Time of Use, or TOCTTOU attacks, take advantage of the need that programs have to execute some tasks in a specific sequence. In any such sequence, there is a
+During an exception, it is common practice to record/report the condition, typically in a log file, including supporting information such as the data that resulted in the error, data structures, data elements, sensitive information such as filenames, paths and server names. If attackers manage to capture this logs due to improper error handling, they can use this information for develop further attacks.  
+The best method to defend agains this is to captire the errors/exceptions in a log file were it can be secured by an access control list (ACL).  
+The worst methid is to echo the information to the user.  
+
+🟢 **Improper Input Handling**  
+
+During an exception, it is common practice to record/report the condition, typically in a log file, including supporting information such as the data that resulted in the error, data structures, data elements, sensitive information such as filenames, paths and server names. If attackers manage to capture this logs due to improper error handling, they can use this information for develop further attacks.  
+The best method to defend agains this is to captire the errors/exceptions in a log file were it can be secured by an access control list (ACL).  
+The worst methid is to echo the information to the user.  
 
