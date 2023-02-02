@@ -34,3 +34,4 @@ This happens when untrusted (unvalidated) inputs or unauthorized code are “inj
 Is a form of code injection aimed at any SQL-based database. 
 An example of this attack is where the function takes the user-provided inputs for username and password and substitutes them in a **where** clause of a SQL statement with the express purpose of changing the **where** clause into one that gives a false answer to the query.  
 The addition of **or** clauses, with an **always true** statement and the beginning of a comment line to block the trialing single quptes, alters the SQL statement to one in which the **where** clause is rendered inoperable, this might lead to a data breach if the **where** clause is altered to return records.  
+Stored procedures are precompiled methods implemented within the database engine and act as a secure coding mechanism to isolate user input from the actual SQL statements being executed, this is one way to defend agains SQL injection.
