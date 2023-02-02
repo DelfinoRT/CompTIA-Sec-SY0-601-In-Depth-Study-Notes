@@ -1,7 +1,7 @@
 # CompTIA SY0-501 Security+ Study Notes
 
 ## Part 1 - Threads, Attacks, and Vulnerabilities  
-### Chapter 04 - Network of Attack Indicators 
+### Chapter 04 - Network Attack Indicators 
 
 ## **Wireless** 
 
