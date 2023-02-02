@@ -123,8 +123,20 @@ An exploit where an attacker abuses the functionality of a server causing it to 
 Common attacks include having the server attack itself or attack another server in the organization.  
 The attacker targets an application that supports data imports from URLs or allows them to read data from URLs. URLs can be manipulated, either by replacing them with new ones or by tampering with URL path traversal.
 
-🟢 **Cross-Site Request Forgery (SCRF, XSRF, “Sea Surf”, Session Riding, Cross-Site Reference Forgery, and Hostile Linking)**  
+🟢 **Cross-Site Request Forgery (SCRF)** (XSRF, “Sea Surf”, Session Riding, Cross-Site Reference Forgery, and Hostile Linking)  
 
 An attack that forces an end user to execute unwanted actions on a web application in which they’re currently authenticated.  
 For most sites, browser requests automatically include any credentials associated with the site, such as the user’s session cookie, IP address, Windows domain credentials, and so forth. Therefore, if the user is currently authenticated to the site, the site will have no way to distinguish between the forged request sent by the victim and a legitimate request sent by the victim.  
 A successful CSRF attack can force the user to perform state changing requests like transferring funds, changing their email address, and so forth. If the victim is an administrative account, CSRF can compromise the entire web application.
+
+🟢 **API Attacks** (Application Programming Interface)  
+
+An attack where the attacker specifically attacks the API and the service behind it by manipulating inputs.  
+An API attack can result in mass data losses, stolen private information and service disruption.  
+API security vulnerabilities include poor authentication and no data encryption.  
+
+🟢 **Resource Exhaustion** (Application Programming Interface)  
+
+An attack where the attacker specifically attacks the API and the service behind it by manipulating inputs.  
+An API attack can result in mass data losses, stolen private information and service disruption.  
+API security vulnerabilities include poor authentication and no data encryption.  
