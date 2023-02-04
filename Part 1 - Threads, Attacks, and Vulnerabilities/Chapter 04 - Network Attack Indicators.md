@@ -27,3 +27,15 @@ The victim's devuce must also have bluetooth enabled and must be in discoverable
 The unauthorized access of information from a wireless device through a Bluetooth connection, often between phones, desktops, laptops, and PDAs (personal digital assistant), devices do not necessarily need to be paired for bluesnarfing to work.  
 This allows access to calendars, contact lists, emails and text messages, and on some phones, users can copy pictures and private videos. Both Bluesnarfing and Bluejacking exploit others' Bluetooth connections without their knowledge. 
 Bluesnarfing is the theft of information from the target device.  
+
+🟢 **Disassociation**  
+
+A type of DoS attack in which the attacker breaks the wireless connection between the victim device and the access point.  
+The method is based on the use of a special disassociation frame specified under IEEE 802.11. Transferring such a frame to the target device breaks the connection, and the Wi-Fi protocol does not require any encryption for it. For a successful attack, the cybercriminal needs to know only the victim’s MAC address.  
+Asually, when the disassociation attack is successful, and the victim's device attempts to reconnect to the router, it'll be connecting to an evil twin router the attacker has set up for that purpose.  
+
+🟢 **Jamming**  
+Is a form of DoS (Denial of Service) that specifically targets the radio spectrum aspect of a wireless.  
+This method involves the use of a device to intentionally create interfering radio signals to effectively “jam” the airwaves, resulting in the AP and any client devices connection being disrupted.  
+
+
