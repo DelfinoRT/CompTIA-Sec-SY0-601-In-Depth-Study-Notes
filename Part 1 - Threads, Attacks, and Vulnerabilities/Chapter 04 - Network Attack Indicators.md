@@ -46,12 +46,14 @@ Several different attack types can be performed agains RFID systems:
 * Against RFID devices themselves (the chips and readers)  
 * Against the communication channel between the device and the reader
 * Agains the reader and back-end system  
+* 
 The main attacks agains RFID are replay, skimming, eavesdropping, MITM.  
-* In a replay attack, the RFID information is recorded and then replayed later.  
-* In an eavesdropping attack, an attacker intercepts the communication between a tag that is authenticating with a reader, using a separate eavesdropping antenna. An eavesdropping attack is passive, meaning that the attacker's antenna only listens in on the communicationt, this has to happen in the vicinity of an authorized reader when the authentication is conducted.  
-* In a skimming attack, an attacker secretly activates a tag and communicates with it. A skimming attack is active, meaning the antenna has to generate a field to power the tag. This limits the maximum distance for a skimming attack compared to an eavesdropping attack.  
+
+* In a **replay attack**, the RFID information is recorded and then replayed later.  
+* In an **eavesdropping attack**, an attacker intercepts the communication between a tag that is authenticating with a reader, using a separate eavesdropping antenna. An eavesdropping attack is passive, meaning that the attacker's antenna only listens in on the communicationt, this has to happen in the vicinity of an authorized reader when the authentication is conducted.  
+* In a **skimming attack**, an attacker secretly activates a tag and communicates with it. A skimming attack is active, meaning the antenna has to generate a field to power the tag. This limits the maximum distance for a skimming attack compared to an eavesdropping attack.  
 A skimming attack can be used as part of a relay attack, where the information from the victim's the tag can be relayed to a genuine terminal.  
-* Man-in-the-middle RFID attack is where the hacker listens for communication between an RFID tag and reader and then intercepts and manipulates the information. The attacker diverts the original signal and then sends false data while pretending to be a normal component in the RFID system.  
+* **Man-in-the-middle RFID attack** is where the hacker listens for communication between an RFID tag and reader and then intercepts and manipulates the information. The attacker diverts the original signal and then sends false data while pretending to be a normal component in the RFID system.  
 
 🟢 **Near Field Communication (NFC)**  
 
