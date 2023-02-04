@@ -7,7 +7,7 @@
 
 🟢 **Evil Twin**  
 
-The main directive is to get victims to connect to the attacker's network instead of the victim's network by using the attacker's "cloned" access point (this is the evil twin) instead of a legitimate access point, the evik twins are usually enhanced with high-power and high-gain antennas to look like a better connection.  
+The main directive is to get victims to connect to the attacker's network instead of the victim's network by using the attacker's "cloned" access point (this is the evil twin) instead of a legitimate access point, the evil twins are usually enhanced with high-power and high-gain antennas to look like a better connection.  
 Once the attacker clones a legitimate AP, attacker makes thar AP (the evil twin) visible to others in an attempt to trick people associating with it.  
 Usually an evil twin is visible to the victims at the same time that a DoS attack is taking place to force users to disconnect from their legitimate network and use the evil twin instead.  
 
@@ -17,6 +17,13 @@ It is an ilegitimate AP (Access Point) that is physically plugged to a network t
 A rouge point, being ilegitimate is not administered by the network owner.  
 As the AP is already part of a network, the attacker does not need to make it visible or advertise it in any way.  
 
-🟢 **Bluesnarfing**  
+🟢 **Bluejacking**  
 
-Lorem ipsum...
+Is an attack to bluetooth wireless technology where the thread actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers.  
+Bluejacking is usually not very harmful, except that bluejacked people generally don't know what has happened, and so may think that their phone is malfunctioning. Usually, a bluejacker will only send a text message, but with modern phones it's possible to send images or sounds as well.  
+The victim's devuce must also have bluetooth enabled and must be in discoverable mode.  
+
+🟢 **Bluesnarfing**  
+The unauthorized access of information from a wireless device through a Bluetooth connection, often between phones, desktops, laptops, and PDAs (personal digital assistant), devices do not necessarily need to be paired for bluesnarfing to work.  
+This allows access to calendars, contact lists, emails and text messages, and on some phones, users can copy pictures and private videos. Both Bluesnarfing and Bluejacking exploit others' Bluetooth connections without their knowledge. 
+Bluesnarfing is the theft of information from the target device.  
