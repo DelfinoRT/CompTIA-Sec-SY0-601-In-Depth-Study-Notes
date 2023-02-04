@@ -71,7 +71,7 @@ By capturing enough repeating IVs, an attacker can easily crack the WEP secret k
 
 🟢 **Man in the Middle Attack (MITM)**  
 
-Occurs when an attacker is able to place himself in the middle of two other hosts that are communicating.  
+Occurs when an attacker is able to place himself in the middle of two other hosts that are communicating, either to eavesdrop or to impersonate one of the parties.  
 This is done by ensuring that all communocations going to or from the target host is routed through the attacker's host.  
 The attacker can then observe all traffic before relaying it and can actually modify or block traffic.  
 To the target host, it appears that communication is occurring normally since all expected replies are received.  
@@ -79,4 +79,36 @@ The amount of information that can be obtained in a man in the middle attack wil
 
 🟢 **Man in the Browser (MITB)**  
 
-This is a variant
+This is a variant of MITM attack where the attacker installs malware, generally a trojan horse on the victim's computer that is capable of modifying that victim's web transactions.  
+The purpose of a man-in-the-browser attack includes eavesdropping, data theft or session tampering.  
+The malware can tamper the browser behaviour through browser helper objects, plugins or extensions.  
+
+## **Layer 2 Attacks**  
+
+Layer 2 of a network is where local addressing decisions are made (Data link layer).  
+Switches operate at layer 2 using media access control (MAC) addresses.  
+The data link layer is concerned with local delivery of frames between nodes on the same level of the network. Data-link frames, as these protocol data units are called, do not cross the boundaries of a local area network.  
+
+🟢 **Address Resolution Protocol (ARP) Poisoning**  
+
+ARP helps devices to know where to send a packet using the MAC or layer 2 address, it uses four basic message types:
+* **ARP Request**: "Who has this IP address?"
+* **ARP Reply**: "I have that IP address; my MAC address is..."
+* **Reverse ARP request (RARP)**: "Who has this MAC address?"
+* **RARP reply**: "I have that MAC address; my IP is..."
+
+fsdfsdfsdf
+
+🟢 **Media Access Control (MAC) Flooding**  
+
+This is a variant of MITM attack where the attacker installs malware, generally a trojan horse on the victim's computer that is capable of modifying that victim's web transactions.  
+The purpose of a man-in-the-browser attack includes eavesdropping, data theft or session tampering.  
+The malware can tamper the browser behaviour through browser helper objects, plugins or extensions.  
+
+🟢 **MAC Cloning**  
+
+Occurs when an attacker is able to place himself in the middle of two other hosts that are communicating, either to eavesdrop or to impersonate one of the parties.  
+This is done by ensuring that all communocations going to or from the target host is routed through the attacker's host.  
+The attacker can then observe all traffic before relaying it and can actually modify or block traffic.  
+To the target host, it appears that communication is occurring normally since all expected replies are received.  
+The amount of information that can be obtained in a man in the middle attack will be limited if the communication is encrypted. 
