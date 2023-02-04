@@ -47,7 +47,7 @@ Several different attack types can be performed agains RFID systems:
 * Against the communication channel between the device and the reader
 * Agains the reader and back-end system  
 * 
-The main attacks agains RFID are replay, skimming, eavesdropping, MITM.  
+The main attacks agains RFID are replay, skimming, eavesdropping and MITM.  
 
 * In a **replay attack**, the RFID information is recorded and then replayed later.  
 * In an **eavesdropping attack**, an attacker intercepts the communication between a tag that is authenticating with a reader, using a separate eavesdropping antenna. An eavesdropping attack is passive, meaning that the attacker's antenna only listens in on the communicationt, this has to happen in the vicinity of an authorized reader when the authentication is conducted.  
@@ -57,5 +57,26 @@ A skimming attack can be used as part of a relay attack, where the information f
 
 🟢 **Near Field Communication (NFC)**  
 
-Is a form of DoS (Denial of Service) that specifically targets the radio spectrum aspect of a wireless.  
-This method involves the use of a device to intentionally create interfering radio signals to effectively “jam” the airwaves, resulting in the AP and any client devices connection being disrupted.  
+NFC is a subset of RFID and acts over a much shorter distance.  
+NFC enables smartphones and other devices to establish radio communication over a distance of typically 10cm or less and this has become the mainstream method of making payments via mobile phones.  
+In the attack scenario the attacker holds the NFC reader near the victim's card and relays the data over another communication channel to a second NFC reader placed in proximity to the original reader that will emulate the victim's card.  
+
+🟢 **Initialization Vector (IV)**  
+
+One method to encrypt data is to add a initialization vector (or IV) to the data that is up to be encrypted, this adds extra randomization to the final ciphertext. Then, on the second block of data, we use the resulting ciphertext as the IV for the next block, and so on.  
+Because WEP uses 24-bit IVs, which is quite small, IVs ended up being re-used with the same key. Because IV keys are transferred with the data in plaintext so that the receiving party is able to decrypt the communication, an attacker can capture these IVs.  
+By capturing enough repeating IVs, an attacker can easily crack the WEP secret key. This is one of the many reasons that WEP was deprecated and replaced with much more secure wireless protocols (WPA2 and WPA3).  
+
+## **On-path Attacks** 
+
+🟢 **Man in the Middle Attack (MITM)**  
+
+Occurs when an attacker is able to place himself in the middle of two other hosts that are communicating.  
+This is done by ensuring that all communocations going to or from the target host is routed through the attacker's host.  
+The attacker can then observe all traffic before relaying it and can actually modify or block traffic.  
+To the target host, it appears that communication is occurring normally since all expected replies are received.  
+The amount of information that can be obtained in a man in the middle attack will be limited if the communication is encrypted.  
+
+🟢 **Man in the Browser (MITB)**  
+
+This is a variant
