@@ -110,5 +110,8 @@ Mac flooding is an attack to the network switches where the thread actor floods 
 
 Once the first part of the attack is completed and the switch is acting as a hub, it will forward the incoming data to all ports (broadcasting), as the attacker is a part of the network, the attacker will also get the data packets intended for the victim machine. The attacker will now be able to steal sensitive data from the communication of the victim and other computers.  
 
+## **Domain Name System (DNS)**
 
-## **Layer 2 Attacks** 
+🟢 **Man in the Browser (MITB)**  
+
+This is a variant of MITM attack where the attacker installs malware, generally a trojan horse on the victim's computer that is capable of modifying that victim's web transactions.   
