@@ -29,4 +29,7 @@ The idea if making my notes public is to have the chance to help some others fol
 While trying to better grab my head around the ton of security concepts, I've been browsing the Internet for more information.  
 This quest has helped me find some resources that I consider are worth checking, the list will be built here:
 
-(https://www.virtuesecurity.com/kb/)
+* https://www.virtuesecurity.com/kb/
+* https://www.socinvestigation.com/category/network-attack/
+* https://portswigger.net/kb/issues
+* https://www.imperva.com/learn/
