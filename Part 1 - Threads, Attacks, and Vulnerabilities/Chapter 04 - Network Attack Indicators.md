@@ -160,7 +160,7 @@ OT systems have OT-specific protocols that are used to perform the communication
 One of the system characteristics of these processes is the reliance on properly timed signals. These systems do not perform correctly when communications are interrupted, so DoS attacks of any kind, including DDoS, can result in significant problems.  
 For these reasons and more, OT systems are not directly connected to internet and have significant barriers preventing outside packets from getting into these networks.  
 
-## **Distributed Denial-of-Service (DDoS)**  
+## **Malicious Code and Script Execution**  
 
 Scripts and automation in systems promote speed, accuracy, reproducibility and portability as well as offer a ton of other advantages.  
 Many of these reasons are why attackers use them as well by coding malicious code and script its automatic execution.  
