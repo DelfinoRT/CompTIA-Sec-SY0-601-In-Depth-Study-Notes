@@ -112,6 +112,77 @@ Once the first part of the attack is completed and the switch is acting as a hub
 
 ## **Domain Name System (DNS)**
 
-🟢 **Man in the Browser (MITB)**  
+🟢 **Domain Hijacking**  
 
-This is a variant of MITM attack where the attacker installs malware, generally a trojan horse on the victim's computer that is capable of modifying that victim's web transactions.   
+Is the act of changing the registration of a domain name without the permission of its original registrant.  
+Generally this attack occurs from unauthorized access to, or exploitation of a vulnerability in a domain name registrar system, through social engineering, or by gaining access to the domain name owner's email address and then resetting the password to their domain name registrar.  
+
+🟢 **DNS Poisoning/Spoofing**  
+
+Is the act of entering false information into a DNS cache, so that DNS queries return an incorrect response and users are directed to the wrong websites.  
+When poisoned, a DNS resolver cache will store faulty information, traffic will go to the wrong places until the cached information is corrected manually or until the time to live (TTL) expires.  
+There's no single DNS resolver system but rather a hierarchy of DNS servers, from root servers on the backbone of the internet, to copies at your ISP, your home router and your local machine, each in the form of a DNS resolver cache.  
+DNS is an unencrypted protocol, making it easy to intercept traffic with spoofing. A project has beugun to secure DNS infrastructure using digital signing of DNS records, it is called Domain Name System Security Extensions (DNSSEC).  
+
+🟢 **Universal Resource Locator (URL) Redirection**  
+
+Is the use of a vulnerability which allows an attacker to force users to a external site which is usually a phishing site that impersonates a legitimate site and steals credentials from the victims. 
+The attack is most often performed by delivering a link to the victim, who then clicks the link and is unknowingly redirected to the malicious website.  
+
+🟢 **DNS amplification**  
+
+Is a Distributed Denial of Service (DDoS) attack in which the attacker exploits vulnerabilities in domain name system (DNS) servers to turn initially small queries into much larger payloads, which are used to bring down the victim’s servers.  
+
+## **Distributed Denial-of-Service (DDoS)**  
+
+In a DoS attack, the thread actor attempts to deny authorized users access either to specific information or to the computer system or network itself.  
+This can be accomplished by crashing the system or by sending so many requests that the machine is overwhelmed.  
+A DoS attack employing multiple attacking sstems is know as a Distributed DoS.  
+The creation of the attack network may be a multistep process in which the attacker first compromises a few systems that are then used as handlers or masters, which in turn compromise other systems. Once the network has been created, the agents (zombies) wait for an attack message that will include data on the specific target before launching the attack.  
+A Defensive approach agains DDoS involves changing the time-out option for TCP connections so that the attacks such as the SYN flooding attack are more difficult to perform, because unused connections are dropped more quickly.  
+
+🟢 **Network**  
+
+In this attack a service is denied by overwhelming the target with traffic from many different systems, the purpose of this attack is to prevent access to the target system, blocking network connections will accomplish this.  
+One method, a SYN flooding attack, can be used to prevent service to a system temporarily in order to take advantage of a trusted relationship that exists between that system and another. SYN flooding is an example of a DoS attack that takes advantage of the wat TCP/IP networks were designed to function.  
+The number of connections a system can support is finite, so when more requests come in that can be processed, the system will soon be reserrving all its connections for fake requests. At this point, any further requests are simply dropped and legitimate users who want to connect to the target system will not be able to do so because use of the system/service has been denied to them.  
+Other common DoS methods are the POP (ping of death) and CLDAP (connectionless Lightweight directory access protocol) attacks.  
+
+🟢 **Application**  
+
+Applications are subject to DDoS as well, because like all systems, they take user inputs, process the data and create user outputs.  This activity takes resources and the objective of an application-level DDoS is to consume all the resources to put the system into a failed state.  
+One of the most common targets of an application layer attack is HTTP but these type of attacks work also agains API interfaces.  
+
+🟢 **Operational Technology (OT) DDoS atack**  
+
+Operational Technology is the name given to networks of industrial devices, these devices use computers to control physical processes - from traffic lights, to refineries, to manufacturing plants and more.  
+OT systems have OT-specific protocols that are used to perform the communications of equipment control.  
+One of the system characteristics of these processes is the reliance on properly timed signals. These systems do not perform correctly when communications are interrupted, so DoS attacks of any kind, including DDoS, can result in significant problems.  
+For these reasons and more, OT systems are not directly connected to internet and have significant barriers preventing outside packets from getting into these networks.  
+
+## **Distributed Denial-of-Service (DDoS)**  
+
+Scripts and automation in systems promote speed, accuracy, reproducibility and portability as well as offer a ton of other advantages.  
+Many of these reasons are why attackers use them as well by coding malicious code and script its automatic execution.  
+
+🟢 **PowerShell**  
+
+PowerShell is a command-line tool suite that is completely integrated with the Windows environment, allowing administrators to program virtually any function that can be done in the O.S.  
+A wide range of toolsets built to leverage the power of PowerShell can be used to attack systems.  
+
+🟢 **Python**  
+Is an easy to learn programming/scripting language widely supported and good at automating tasks and data analysis. This makes Python very useful for cybersecurity teams and attackers alike.
+
+🟢 **Bash (aka Bourne Again shell)**  
+
+Is an interpreter that processes shell commands on Linux systems.  
+Bash takes commands in plaintext format and calls OS services to perform the specified tasks. this enables complete automation of a Linux environment and is therefore valuable to system administrators and attackers alike.  
+Thread actors use bash to search through the systems and perform tasks on Linux.  
+
+🟢 **Macros (short for "macro instruction")**  
+
+Macros are recorded sets of instructions, typically presented to an application to automate their function, with this functionality comes risk in the form of unwanted macros calling the system and performing system activities.  
+Macros can be enabled in PDFs, Microsoft Office and some other software applications.  
+
+🟢 **Visual Basic for Applications (VBA)**  
+VBA is an older technology from Microsoft that was used to automate many internal processes in applications and it is still valid on a lot of platforms and, as such, is still a vector for attackers.  
