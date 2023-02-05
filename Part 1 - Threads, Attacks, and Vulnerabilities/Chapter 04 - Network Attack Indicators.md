@@ -89,26 +89,26 @@ Layer 2 of a network is where local addressing decisions are made (Data link lay
 Switches operate at layer 2 using media access control (MAC) addresses.  
 The data link layer is concerned with local delivery of frames between nodes on the same level of the network. Data-link frames, as these protocol data units are called, do not cross the boundaries of a local area network.  
 
-🟢 **Address Resolution Protocol (ARP) Poisoning**  
+🟢 **Address Resolution Protocol (ARP) Poisoning/Spoofing**  
 
-ARP helps devices to know where to send a packet using the MAC or layer 2 address, it uses four basic message types:
+ARP helps devices to know where to send a packet using the MAC or layer 2 address, such ARP table is stored in the RAM of the device. Each entry, or row, of the ARP table binds an IP address with a MAC address.  
+The ARP protocol uses four basic message types:
 * **ARP Request**: "Who has this IP address?"
 * **ARP Reply**: "I have that IP address; my MAC address is..."
 * **Reverse ARP request (RARP)**: "Who has this MAC address?"
 * **RARP reply**: "I have that MAC address; my IP is..."
 
-fsdfsdfsdf
+The messages are used in conjunction with device's ARP table, where a form of short-term memory associated with these data elements reside.  
+When an ARP reply is received, the data is entered into all devices that hear the reply to facilitate the address lookup process.  
+
+There's no mechanism to verify the veracity of the data received, hence, an attacker could send falsified ARP messages over a local area network (LAN) to link the attacker's MAC address with the IP address of a legitimate computer or server on the network, this will corrupt the ARP table and cause packets to be misrouted, this will result in malicious address redirection that the attacker could exploit to inject himself into the middle of a conversation between 2 devices (MITM).   
 
 🟢 **Media Access Control (MAC) Flooding**  
 
-This is a variant of MITM attack where the attacker installs malware, generally a trojan horse on the victim's computer that is capable of modifying that victim's web transactions.  
-The purpose of a man-in-the-browser attack includes eavesdropping, data theft or session tampering.  
-The malware can tamper the browser behaviour through browser helper objects, plugins or extensions.  
+Addressing at the layer 2 interface is done by media access control (MAC) addresses using switches and hubs.  
+Mac flooding is an attack to the network switches where the thread actor floods these devices with fake MAC addresses to compromise their security, when the MAC table reaches the allocated storage limit, it begins removing old addresses with the new ones which makes the switch unable to find the correct address for a packet and it will lead the switch to enter into a fail-open mode where the switch will now behave as a network hub.  
 
-🟢 **MAC Cloning**  
+Once the first part of the attack is completed and the switch is acting as a hub, it will forward the incoming data to all ports (broadcasting), as the attacker is a part of the network, the attacker will also get the data packets intended for the victim machine. The attacker will now be able to steal sensitive data from the communication of the victim and other computers.  
 
-Occurs when an attacker is able to place himself in the middle of two other hosts that are communicating, either to eavesdrop or to impersonate one of the parties.  
-This is done by ensuring that all communocations going to or from the target host is routed through the attacker's host.  
-The attacker can then observe all traffic before relaying it and can actually modify or block traffic.  
-To the target host, it appears that communication is occurring normally since all expected replies are received.  
-The amount of information that can be obtained in a man in the middle attack will be limited if the communication is encrypted. 
+
+## **Layer 2 Attacks** 
