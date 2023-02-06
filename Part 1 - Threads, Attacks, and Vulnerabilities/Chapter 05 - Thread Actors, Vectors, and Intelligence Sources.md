@@ -10,7 +10,7 @@ Thread intelligence is knowledge based on evidence that allows the prevention or
 
 ## **Actors and Threats** 
 
-<img src="https://github.com/DelfinoRT/DelfinoRT/blob/main/head.png" width="100%" title="Intro Card" alt="Intro Card">
+<img src="https://github.com/DelfinoRT/DelfinoRT/blob/main/head.png](https://raw.githubusercontent.com/DelfinoRT/CompTIA-Sec-SY0-601-In-Depth-Study-Notes/main/Part%201%20-%20Threads%2C%20Attacks%2C%20and%20Vulnerabilities/Distribution%20of%20attacker%20skill%20levels.png" width="100%" title="Intro Card" alt="Intro Card">
 
 🟢 **Evil Twin**  
 
