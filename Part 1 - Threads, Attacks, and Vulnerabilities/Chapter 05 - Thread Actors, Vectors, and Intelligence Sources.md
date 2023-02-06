@@ -8,7 +8,9 @@ A thread actor is the source of the thread to the system.
 Vectors are the methods that thread actors use to attack a vulnerability in a system in order to achieve their objectives.  
 Thread intelligence is knowledge based on evidence that allows the prevention or mitigation of a cyber attack.  
 
-## **Wireless** 
+## **Actors and Threats** 
+
+<img src="https://github.com/DelfinoRT/DelfinoRT/blob/main/head.png" width="100%" title="Intro Card" alt="Intro Card">
 
 🟢 **Evil Twin**  
 
