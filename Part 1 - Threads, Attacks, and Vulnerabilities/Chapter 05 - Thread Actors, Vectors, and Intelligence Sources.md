@@ -7,6 +7,7 @@ Threads are actions that can resu;lt in rist to a system.
 A thread actor is the source of the thread to the system.  
 Vectors are the methods that thread actors use to attack a vulnerability in a system in order to achieve their objectives.  
 Thread intelligence is knowledge based on evidence that allows the prevention or mitigation of a cyber attack.  
+Intruders are those who are attempting to conduct an intrusion and come in different varieties and have varying degrees of sophistication.  
 
 ## **Actors and Threats** 
 
