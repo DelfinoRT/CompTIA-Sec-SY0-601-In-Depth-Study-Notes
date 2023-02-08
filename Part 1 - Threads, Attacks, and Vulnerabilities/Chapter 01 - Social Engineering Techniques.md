@@ -11,8 +11,10 @@
 
 ### Principles (Reasons for Effectiveness)  
 Social engineering is very successful for two general reasons:  
-* The first is the basic desire of most people to be helpful. The problem with this is that seemingly innocuous information can be used either directly in an attack or indirectly to build a bigger picture that an attacker can use to create an aura of authenticity during an attack.  
-* The second reason is that individuals normally seek to avoid confrontation and trouble. Usually, the attacker attempts to intimidate the victim, threatening to call the victim's supervisor because of lack of help, the victim may give in and provide the information to avoid confrontation.
+* The first is the basic desire of most people to be helpful.  
+The problem with this is that seemingly innocuous information can be used either directly in an attack or indirectly to build a bigger picture that an attacker can use to create an aura of authenticity during an attack.  
+* The second reason is that individuals normally seek to avoid confrontation and trouble.  
+Usually, the attacker attempts to intimidate the victim, threatening to call the victim's supervisor because of lack of help, the victim may give in and provide the information to avoid confrontation.
 
 ### Psychological Components of Social Engineering
 * **Authority**: The actor acts as an individual of authority, this leads to an environment where one party feels at risk of challenging another.
@@ -126,6 +128,7 @@ a hoax can be damaging if it causes users to take some actions that weaken the s
 Users should be trained to be suspicious of unusual e-mails and stories and should validate the information with the system administrators or the company's security entities.  
 
 🟢 **Impersonation**  
+
 In this technique, an attacker assumes a role that is recognized by the target, the attacker uses the target's biases against their better judgment to follow procedures.  
 Impersonation can occur in different ways, from third-party contractors to help desk agents, to vendors or even online resources.  
 The best defense is simple: have processes in place that require employees to see a person's ID before engaging with them if the employees do not know them, this includes people such as delivery drivers.  
