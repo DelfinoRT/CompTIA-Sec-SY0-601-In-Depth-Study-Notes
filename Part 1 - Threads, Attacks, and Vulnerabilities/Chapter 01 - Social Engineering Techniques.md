@@ -124,7 +124,7 @@ The goal is to gather as much information as possible about the system and envir
 
 🟢 **Hoax**  
 
-a hoax can be damaging if it causes users to take some actions that weaken the security of a system.  
+A hoax can be damaging if it causes users to take some actions that weaken the security of a system.  
 Users should be trained to be suspicious of unusual e-mails and stories and should validate the information with the system administrators or the company's security entities.  
 
 🟢 **Impersonation**  
