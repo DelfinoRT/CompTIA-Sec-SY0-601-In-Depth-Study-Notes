@@ -81,7 +81,7 @@ Buffer overflows can occur in any code, and code that runs with privilege has an
 
 Also called Time of Check to Time of Use, or TOCTTOU attacks, take advantage of the need that programs have to execute some tasks in a specific sequence. In any such sequence, there is a small period of time when the system has carried out the first task but not started on the second. If this period is long enough or the attacker is lucky and knowledgeable, a race condition vulnerability exists where an attacker can trick the system into carrying out unauthorized actions in addition to its normal processes.  
 Race conditions can be used for privilege elevation and denial of servive attacks.  
-Developers can use reference counters, kernel locks, and thread synchronization to prevent race conditions.  
+Developers can use reference counters, kernel locks, and threat synchronization to prevent race conditions.  
 There are two main ways this attack is carried out:
    * **Interference by an untrusted process**: The attacker inserts a piece of code in between the steps of a secure process.
    * **Interference by a trusted process**: The attacker exploits two different processes that share some state in common.
