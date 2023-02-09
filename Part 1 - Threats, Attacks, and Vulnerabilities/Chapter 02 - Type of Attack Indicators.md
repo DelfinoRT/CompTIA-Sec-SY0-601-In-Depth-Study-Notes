@@ -1,6 +1,6 @@
 # CompTIA SY0-501 Security+ Study Notes
 
-## Part 1 - Threads, Attacks, and Vulnerabilities  
+## Part 1 - Threats, Attacks, and Vulnerabilities  
 ### Chapter 02 - Type of Attack Indicators 
 * Each type of attack threatens at least one of the three security requirements: Confidentiality, Integrity, and Availability (the CIA of security).  
 * Attacks on computer systems and networks can be grouped into two broad categories: attacks on specific software (applications or operating systems), and attacks on specific protocols or services.  
