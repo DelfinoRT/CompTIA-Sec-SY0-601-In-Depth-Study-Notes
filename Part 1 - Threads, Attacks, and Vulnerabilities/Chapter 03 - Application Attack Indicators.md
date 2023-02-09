@@ -1,6 +1,6 @@
 # CompTIA SY0-501 Security+ Study Notes
 
-## Part 1 - Threads, Attacks, and Vulnerabilities  
+## Part 1 - Threats, Attacks, and Vulnerabilities  
 ### Chapter 03 - Application Attack Indicators 
 
 
