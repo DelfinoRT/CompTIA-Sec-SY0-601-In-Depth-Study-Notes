@@ -1,6 +1,6 @@
 # CompTIA SY0-501 Security+ Study Notes
 
-## Part 1 - Threads, Attacks, and Vulnerabilities  
+## Part 1 - Threats, Attacks, and Vulnerabilities  
 ### Chapter 01 - Social Engineering Techniques  
 * Social engineering is a method of using people as part of an attack process.  
 * The key in all social engineering attacks is that you are manipulating a person and their actions by manipulating their perception of a situation.  
@@ -109,7 +109,7 @@ This works best when the target is expecting the impersonated individual.
 🟢 **Invoice Scams**  
 
 Using a fake invoice in an attempt to get a company or entity to pay for things that were not ordered.  
-Usually, the fake invoice is accompanied by a message suggesting a sense of urgency, a final notice, or a thread.  
+Usually, the fake invoice is accompanied by a message suggesting a sense of urgency, a final notice, or a threat.  
 
 🟢 **Credential Harvesting**  
 
