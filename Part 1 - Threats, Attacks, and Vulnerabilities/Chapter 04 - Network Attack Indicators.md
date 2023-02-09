@@ -1,6 +1,6 @@
 # CompTIA SY0-501 Security+ Study Notes
 
-## Part 1 - Threads, Attacks, and Vulnerabilities  
+## Part 1 - Threats, Attacks, and Vulnerabilities  
 ### Chapter 04 - Network Attack Indicators 
 
 ## **Wireless** 
@@ -19,7 +19,7 @@ As the AP is already part of a network, the attacker does not need to make it vi
 
 🟢 **Bluejacking**  
 
-Is an attack to bluetooth wireless technology where the thread actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers.  
+Is an attack to bluetooth wireless technology where the threat actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers.  
 Bluejacking is usually not very harmful, except that bluejacked people generally don't know what has happened, and so may think that their phone is malfunctioning. Usually, a bluejacker will only send a text message, but with modern phones it's possible to send images or sounds as well.  
 The victim's devuce must also have bluetooth enabled and must be in discoverable mode.  
 
@@ -106,7 +106,7 @@ There's no mechanism to verify the veracity of the data received, hence, an atta
 🟢 **Media Access Control (MAC) Flooding**  
 
 Addressing at the layer 2 interface is done by media access control (MAC) addresses using switches and hubs.  
-Mac flooding is an attack to the network switches where the thread actor floods these devices with fake MAC addresses to compromise their security, when the MAC table reaches the allocated storage limit, it begins removing old addresses with the new ones which makes the switch unable to find the correct address for a packet and it will lead the switch to enter into a fail-open mode where the switch will now behave as a network hub.  
+Mac flooding is an attack to the network switches where the threat actor floods these devices with fake MAC addresses to compromise their security, when the MAC table reaches the allocated storage limit, it begins removing old addresses with the new ones which makes the switch unable to find the correct address for a packet and it will lead the switch to enter into a fail-open mode where the switch will now behave as a network hub.  
 
 Once the first part of the attack is completed and the switch is acting as a hub, it will forward the incoming data to all ports (broadcasting), as the attacker is a part of the network, the attacker will also get the data packets intended for the victim machine. The attacker will now be able to steal sensitive data from the communication of the victim and other computers.  
 
@@ -135,7 +135,7 @@ Is a Distributed Denial of Service (DDoS) attack in which the attacker exploits 
 
 ## **Distributed Denial-of-Service (DDoS)**  
 
-In a DoS attack, the thread actor attempts to deny authorized users access either to specific information or to the computer system or network itself.  
+In a DoS attack, the threat actor attempts to deny authorized users access either to specific information or to the computer system or network itself.  
 This can be accomplished by crashing the system or by sending so many requests that the machine is overwhelmed.  
 A DoS attack employing multiple attacking sstems is know as a Distributed DoS.  
 The creation of the attack network may be a multistep process in which the attacker first compromises a few systems that are then used as handlers or masters, which in turn compromise other systems. Once the network has been created, the agents (zombies) wait for an attack message that will include data on the specific target before launching the attack.  
@@ -177,7 +177,7 @@ Is an easy to learn programming/scripting language widely supported and good at 
 
 Is an interpreter that processes shell commands on Linux systems.  
 Bash takes commands in plaintext format and calls OS services to perform the specified tasks. this enables complete automation of a Linux environment and is therefore valuable to system administrators and attackers alike.  
-Thread actors use bash to search through the systems and perform tasks on Linux.  
+Threat actors use bash to search through the systems and perform tasks on Linux.  
 
 🟢 **Macros (short for "macro instruction")**  
 
