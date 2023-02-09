@@ -11,7 +11,7 @@ Intruders are those who are attempting to conduct an intrusion and come in diffe
 
 ## **Actors and Threats** 
 
-<img src="https://raw.githubusercontent.com/DelfinoRT/CompTIA-Sec-SY0-601-In-Depth-Study-Notes/main/Part%201%20-%20Threads%2C%20Attacks%2C%20and%20Vulnerabilities/Distribution%20of%20attacker%20skill%20levels.png" width="50%" title="Intro Card" alt="Intro Card">
+<img src="https://github.com/DelfinoRT/CompTIA-Sec-SY0-601-In-Depth-Study-Notes/blob/main/Part%201%20-%20Threats,%20Attacks,%20and%20Vulnerabilities/Distribution%20of%20attacker%20skill%20levels.png" width="50%" title="Intro Card" alt="Intro Card">
 
 🟢 **Advanced Persistent Threats (APTs)**  
 
