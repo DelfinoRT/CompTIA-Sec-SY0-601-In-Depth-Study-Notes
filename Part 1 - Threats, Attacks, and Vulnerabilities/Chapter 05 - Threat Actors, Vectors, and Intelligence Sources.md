@@ -26,4 +26,14 @@ Employees are not the only insiders who organizations need to be concerned about
 
 🟢 **State Actors**  
 
-Lorem Ipsum...ssga
+At the top of the spectrum are those highly technical individuals referred to as elite hackers, who not only have the ability to write scripts that exploit vulnerabilities but also are capable of discovering new ones.  
+Many of these elite hackers are employed by major cybersecurity firms in an effort to combat criminal activity. Others are employed by nation-states and other international organizations, to train and run large groups of skilled hackers to conduct nation-state attacks against a wide range of adversaries.  
+State actors are employed by governments to compromise or gain access to the intelligence data of targeted governments, they are typically well-funded and often carry APT attacks.  
+Many nations today have developed to some extent the capability to conduct information warfare, this type of threat is characterized by a much longer period of preparation, tremendous financial backing, and a large and organized group of hackers.  
+Some of the possible targets for state actors are military forces, national infrastructure (water, gas, electricity, oil), refineries, distribution systems, banks, and telecommunication. 
+
+🟢 **Hacktivists**  
+
+These threat actors are usually at the level below the elite hackers and are those people who are capable of writing scripts to exploit known vulnerabilities. These individuals are much more technically competent than script kiddies and, usually, script kiddies may be enlisted as ground troops to add volume to an attack.  
+When hackers work together for a collectivist effort, typically on behalf of some cause, they are referred to as hacktivists.
+
