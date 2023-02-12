@@ -17,12 +17,12 @@ Intruders are those who are attempting to conduct an intrusion and come in diffe
 
 An APT attack is characterized by using toolkits to achieve a presence on a target network and then, instead of just moving to steal information, it focuses on the long game by maintaining a persistent presence on the target and avoiding detection.  
 Because of the level of effort needed to carry out such an attack, APTs are usually leveled at high value targets, such as nation states and large corporations, with the ultimate goal of stealing information over a long period of time, rather than simply "hit and run", as many black hat hackers do during lower level cyber attacks.   
-* APTs are usually performed in stages:  
-    **One**: Gain Access  
-    **Two**: Establish a Foothold  
-    **Three**: Deepen Access  
-    **Four**: Move Laterally  
-    **Five**: Look, Learn, and Remain  
+APTs are usually performed in stages:  
+* **One**: Gain Access  
+* **Two**: Establish a Foothold  
+* **Three**: Deepen Access  
+* **Four**: Move Laterally  
+* **Five**: Look, Learn, and Remain  
 
 🟢 **Insider Treats**  
 
@@ -45,3 +45,35 @@ These threat actors are usually at the level below the elite hackers and are tho
 When hackers work together for a collectivist effort, typically on behalf of some cause, they are referred to as hacktivists.  
 Simply put, a hacktivist is someone who uses hacking to bring about political and social change. The term “hacktivist” traces back to 1994, originating from the hacker group “Cult of the Dead Cow.”  
 
+🟢 **Script Kiddies (Skiddies)**  
+
+At the low spectrum (technically speaking), are those known as script kiddies, individuals who do not have the technical expertise to develop scripts or discover new vulnerabilities in software, but who have just enough understanding of computer systems to be able to download and run scripts that others have developed.  
+The vast majority of the "unfriendly" activity occurring on the internet is probably carried out by these individuals.  
+Not all novice hackers are script kiddies. Some inexperienced attackers do try to learn about and understand the tools they use. Script kiddies aren't interested in learning and understanding the exploits they use, instead using what is easy to find and is already available.  
+Script kiddies are typically motivated by simple, personal reasons -- to have fun, create chaos, seek attention, or take revenge.  
+The term "script kiddie" first appeared in hacker magazines, blogs, message boards, and Internet Relay Chat in the mid-1990s.  
+
+
+🟢 **Criminal Syndicates**  
+
+These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on making money.  
+One difference between criminal groups and the "average" hacker is the level of organization that criminal elements employ in their attacks as they typically have the money to spend on accomplishing the activity and are willing to spend extra time motivated by the level of the reward if they succeed.  
+Attacks by criminal organizations usually fall into the structured threat category characterised by a greater amount of planning, a longer period of time to conduct the activity, more financial backing to accomplish it, and possibly corruption or collusion with insiders.  
+Today’s criminal syndicates can benefit from national jurisdictions that do not have proper legal frameworks and technical capabilities to fight cybercrime. The easiness of communication, anonymity, and the accessibility of tools for illegal operations have transformed cybercrime into a global, fast-expanding, and profit-driven industry with organized criminal groups thriving behind it.  
+
+## **Hackers**  
+
+The original use of the term related to individuals who spent time trying to figure out how something worked so that they could control it in ways it was't designed.
+Haker is also a term to describe anyone who improperly uses computers, including criminals. This has led to the descriptors authorized, unauthorized and semi-authorized.  
+
+🟢 **Authorized**  
+
+These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on 
+
+🟢 **Unauthorized**  
+
+These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on 
+
+🟢 **Semi-authorized**  
+
+These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on 
