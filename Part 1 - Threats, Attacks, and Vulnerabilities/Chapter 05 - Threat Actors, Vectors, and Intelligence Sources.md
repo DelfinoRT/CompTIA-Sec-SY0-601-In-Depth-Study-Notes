@@ -35,5 +35,6 @@ Some of the possible targets for state actors are military forces, national infr
 🟢 **Hacktivists**  
 
 These threat actors are usually at the level below the elite hackers and are those people who are capable of writing scripts to exploit known vulnerabilities. These individuals are much more technically competent than script kiddies and, usually, script kiddies may be enlisted as ground troops to add volume to an attack.  
-When hackers work together for a collectivist effort, typically on behalf of some cause, they are referred to as hacktivists.
+When hackers work together for a collectivist effort, typically on behalf of some cause, they are referred to as hacktivists.  
+Simply put, a hacktivist is someone who uses hacking to bring about political and social change. The term “hacktivist” traces back to 1994, originating from the hacker group “Cult of the Dead Cow.”  
 
