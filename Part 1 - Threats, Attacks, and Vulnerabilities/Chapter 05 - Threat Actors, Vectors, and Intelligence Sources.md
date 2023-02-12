@@ -16,12 +16,13 @@ Intruders are those who are attempting to conduct an intrusion and come in diffe
 🟢 **Advanced Persistent Threats (APTs)**  
 
 An APT attack is characterized by using toolkits to achieve a presence on a target network and then, instead of just moving to steal information, it focuses on the long game by maintaining a persistent presence on the target and avoiding detection.  
-* Stages:  
-    Stage One: Gain Access  
-    Stage Two: Establish a Foothold  
-    Stage Three: Deepen Access  
-    Stage Four: Move Laterally  
-    Stage Five: Look, Learn, and Remain  
+Because of the level of effort needed to carry out such an attack, APTs are usually leveled at high value targets, such as nation states and large corporations, with the ultimate goal of stealing information over a long period of time, rather than simply "hit and run", as many black hat hackers do during lower level cyber attacks.   
+* APTs are usually performed in stages:  
+    **One**: Gain Access  
+    **Two**: Establish a Foothold  
+    **Three**: Deepen Access  
+    **Four**: Move Laterally  
+    **Five**: Look, Learn, and Remain  
 
 🟢 **Insider Treats**  
 
