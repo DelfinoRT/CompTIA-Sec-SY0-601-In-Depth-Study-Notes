@@ -72,7 +72,7 @@ These are cybersecurity criminals who lurk in the shadows of anonymity, create m
 
 🟢 **Unauthorized**  
 
-These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on 
+These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on lorem ipsum
 
 🟢 **Semi-authorized**  
 
