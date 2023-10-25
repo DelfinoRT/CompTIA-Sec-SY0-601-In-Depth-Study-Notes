@@ -1,6 +1,22 @@
 # CompTIA SY0-501 Security+ Study Notes
 
 ## Part 1 - Threats, Attacks, and Vulnerabilities  
+
+🟢 **What is a threat?**  
+
+A threat in cybersecurity refers to any circumstance, event, or actor with the potential to adversely impact organizational operations, assets, or individuals through an information system. This can include unauthorized access, disclosure, modification, destruction of information, or denial of service. Threats can arise from various sources, such as accidental occurrences, environmental factors like natural disasters, human negligence, or deliberate actions by threat actors.
+Cybersecurity threats encompass a range of malicious activities aimed at compromising computer systems and networks. These include malware like viruses and ransomware, phishing attacks that deceive users into revealing sensitive information, and denial-of-service assaults that overwhelm systems with traffic. Social engineering tactics manipulate individuals, while SQL injection and cross-site scripting target databases and websites. Zero-day exploits that exploit previously unknown vulnerabilities, and insider threats involve misuse of access within an organization. IoT vulnerabilities, cryptojacking, eavesdropping, and password attacks are also prevalent. Drive-by downloads install malware on unsuspecting users' devices, while credential theft and man-in-the-middle attacks exploit weaknesses in authentication.
+
+🟢 **What is an attack?**  
+
+An attack is an intentional and offensive action launched by cybercriminals or other threat actors to compromise a system, network, or asset. The primary objective of a cyber attack is to gain unauthorized access, disrupt, disable, alter, or steal data from targeted systems. Cyber attacks can take various forms, including the deployment of malware, phishing, ransomware, and denial of service, among other methods. Attackers typically follow a method and have a motive when seizing an opportunity to exploit vulnerabilities.
+
+🟢 **What is a vulnerability**  
+
+A vulnerability in an IT system refers to a weakness that can be exploited by an attacker to carry out a successful attack. Vulnerabilities can range from flaws in software or hardware to inherent features, or user errors. Attackers often seek to exploit these weaknesses, either individually or in combination with others, to achieve their objectives. These weaknesses can lead to security and privacy risks, potentially resulting in unauthorized access, data breaches, or other forms of compromise.
+Well-known cyber and IT vulnerabilities encompass a range of weaknesses that can be exploited by attackers. These include outdated software and hardware, weak passwords, unsecured networks, and social engineering tactics. Misconfigured security settings, insufficient access controls, and unpatched software vulnerabilities also pose significant risks.
+Other vulnerabilities stem from phishing attacks, lack of employee training, and inadequate malware protection. Additionally, physical security lapses, data leakage, and supply chain weaknesses can create avenues for unauthorized access.
+
 ### Chapter 01 - Social Engineering Techniques  
 * Social engineering is a method of using people as part of an attack process.  
 * The key in all social engineering attacks is that you are manipulating a person and their actions by manipulating their perception of a situation.  
