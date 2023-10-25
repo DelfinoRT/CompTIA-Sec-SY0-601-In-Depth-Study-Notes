@@ -33,3 +33,4 @@ This quest has helped me find some resources that I consider are worth checking,
 * https://www.socinvestigation.com/category/network-attack/
 * https://portswigger.net/kb/issues
 * https://www.imperva.com/learn/
+* https://www.iotone.ir/shop/public/upload/article/5b9ca35aba00e.pdf
