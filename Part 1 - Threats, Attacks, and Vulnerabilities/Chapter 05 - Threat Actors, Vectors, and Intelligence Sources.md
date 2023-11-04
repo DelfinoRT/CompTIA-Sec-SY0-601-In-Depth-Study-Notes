@@ -84,3 +84,151 @@ Gray hat hackers often justify their actions by arguing that the **internet is n
 Despite their controversial methods, gray hat hackers often provide **valuable information** to companies about their system vulnerabilities. However, their actions are generally viewed as unethical by the white hat community and are considered illegal as they **usually don't seek permission to infiltrate systems**.<br>
 To encourage gray hat hackers to report vulnerabilities rather than exploit them, some companies run **bug bounty programs**. These programs provide incentives for gray hats to disclose system vulnerabilities instead of exploiting them for personal gain. It's important to note that obtaining the company’s permission is the only legal means to probe their systems.<br>
 In certain instances, **if organizations do not promptly respond or comply, gray hat hackers may resort to black hat tactics by publishing exploitation methods on the internet** or directly exploiting the vulnerability themselves.
+
+## **Shadow IT**  
+
+Unauthori
+
+## **Competitors**  
+
+Unauthori
+
+## **Attributes of Actors**  
+
+Unauthori
+
+🟢 **Internal/External**  
+
+Unauthori
+
+🟢 **Levels of Sohistication/Capability**  
+
+Unauthori
+
+🟢 **Resources/Funding**  
+
+Unauthori
+
+🟢 **Intent/Motivation**  
+
+Unauthori
+
+## **Vectors**  
+
+Unauthori
+
+🟢 **Direct Access**  
+
+Unauthori
+
+🟢 **Wireless**  
+
+Unauthori
+
+🟢 **E-mail**  
+
+Unauthori
+
+🟢 **Supply Chain**  
+
+Unauthori
+
+🟢 **Social Media**  
+
+Unauthori
+
+🟢 **Removable Media**  
+
+Unauthori
+
+🟢 **Cloud**  
+
+Unauthori
+
+## **Threat Intelligence Sources**  
+
+Unauthori
+
+🟢 **Open Source Intelligence (OSINT)**  
+
+Unauthori
+
+🟢 **Closed/Proprietary**  
+
+Unauthori
+
+🟢 **Vulnerability Databases**  
+
+Unauthori
+
+🟢 **Public/Private Information Sharing Centers**  
+
+Unauthori
+
+🟢 **Dark Web**  
+
+Unauthori
+
+🟢 **Indicators of Compromise (IOC)**  
+
+Unauthori
+
+🟢 **Automated Indicator Sharing (AIS)**  
+
+Unauthori
+
+🟢 **Structured Threat Infomation Expression (STIX) / Trusted Automated Exchange of Intelligence Information (TAXII)**  
+
+Unauthori
+
+🟢 **Predictive Analysis**  
+
+Unauthori
+
+🟢 **Threat Maps**  
+
+Unauthori
+
+🟢 **File/Code Repositories**  
+
+Unauthori
+
+## **Research Resources**  
+
+Unauthori
+
+🟢 **Vendor Websites**  
+
+Unauthori
+
+🟢 **Vulnerability Feeds**  
+
+Unauthori
+
+🟢 **Conferences**  
+
+Unauthori
+
+🟢 **Academic Journals**  
+
+Unauthori
+
+🟢 **Requests for Comments (RFCs)**  
+
+Unauthori
+
+🟢 **Local Industry Groups**  
+
+Unauthori
+
+🟢 **Social Media**  
+
+Unauthori
+
+🟢 **Threat Feeds**  
+
+Unauthori
+
+🟢 **Adversary Tactics, Techniques, and Procedures (TTPs)**  
+
+Unauthori
