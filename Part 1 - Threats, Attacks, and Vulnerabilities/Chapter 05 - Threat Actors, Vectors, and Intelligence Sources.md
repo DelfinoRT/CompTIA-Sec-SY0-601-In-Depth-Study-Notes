@@ -40,8 +40,7 @@ Many countries now have the capability to conduct information warfare, character
 
 A step above the script kiddies, we find **intermediate threat actors**. These individuals are considerably more **technically competent**, capable of writing scripts to exploit known vulnerabilities. They are far more advanced than script kiddies, who can sometimes be used as 'ground troops' to amplify an attack.<br>
 When these hackers unite for a collective effort, typically in support of a cause, they are referred to as **hacktivists**. A **hacktivist** is someone who leverages hacking to effect political or social change. The term "hacktivist" can be traced back to 1994, originating from the hacker group **"Cult of the Dead Cow"**.<br>
-Hacktivism represents a blend of **activism and hacking**, often deployed as a form of civil disobedience to protest against issues like censorship, human rights violations, or other political and social matters. Despite the potentially noble intentions, hacktivism activities are **illegal** and can cause significant damage, disrupting services and leaking sensitive information. 
-
+Hacktivism represents a blend of **activism and hacking**, often deployed as a form of civil disobedience to protest against issues like censorship, human rights violations, or other political and social matters. Despite the potentially noble intentions, hacktivism activities are **illegal** and can cause significant damage, disrupting services and leaking sensitive information.<br>
 Therefore, it's crucial to have robust **cybersecurity measures** in place to protect against these sophisticated threats.
 
 🟢 **Script Kiddies (Skiddies)**  
@@ -74,8 +73,14 @@ In essence, white hat hackers play a pivotal role in **proactive cybersecurity**
 
 🟢 **Unauthorized**  
 
-These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on lorem ipsum
+Unauthorized hackers, also known as '**Black Hat**' hackers, are the antithesis of '**White Hat**' hackers. Their expertise and knowledge are predominantly used for illicit activities and operations that violate laws, thereby posing a significant risk to various systems.<br>
+The term '**Black Hat**' originates from the 1950s Western films where the villains typically wore black hats, while the heroes wore white hats. This has led to the use of the term in the cybersecurity context to differentiate between ethical and non-ethical hackers.<br>
+**Black Hat hackers** exploit security vulnerabilities primarily for financial gain. Their activities may include stealing or destroying private data and manipulating, disrupting, or shutting down websites and networks. Their actions often result in substantial damage, causing significant financial losses and reputational harm to the affected parties.
 
 🟢 **Semi-authorized**  
 
-These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on nlorem ipsum
+**Gray hat hackers** are semi-authorized actors who may sometimes breach laws or typical ethical norms, but unlike black hat hackers, they don't usually possess malicious intentions from start. They are positioned between white hat hackers, who exploit system vulnerabilities legally and ethically (while at their job), and black hat hackers, who exploit weaknesses illegally and with harmful intent.<br>
+Gray hat hackers often justify their actions by arguing that the **internet is not safe for businesses** and it is their mission to enhance its security for individuals and organizations. They do this by hacking websites and networks, creating disruptions to prove their point. Their curiosity may lead them to probe high-profile systems, even if it infringes on privacy rights and other laws.<br>
+Despite their controversial methods, gray hat hackers often provide **valuable information** to companies about their system vulnerabilities. However, their actions are generally viewed as unethical by the white hat community and are considered illegal as they do not seek permission to infiltrate systems.<br>
+To encourage gray hat hackers to report vulnerabilities rather than exploit them, some companies run **bug bounty programs**. These programs provide incentives for gray hats to disclose system vulnerabilities instead of exploiting them for personal gain. It's important to note that obtaining the company’s permission is the only legal means to probe their systems.<br>
+In certain instances, if organizations do not promptly respond or comply, gray hat hackers may resort to black hat tactics by publishing exploitation methods on the internet or directly exploiting the vulnerability themselves.
