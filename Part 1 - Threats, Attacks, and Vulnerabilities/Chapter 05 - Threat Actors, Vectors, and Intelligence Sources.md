@@ -140,7 +140,6 @@ The intent or motivation of a threat actor can range from simple curiosities to 
 - **I – Ideology**
 - **C – Compromise**
 - **E – Ego**
-<br>
 
 **Money** <br>
 Money is the most common motivator. Threat actors, driven by financial gain, often cast a wide net, targeting easy victims. They can profit from selling stolen data on the black market or engaging in ransom attacks. Even nation states, like North Korea, have been found to target companies for financial gain, specifically those in cryptocurrency exchange or intellectual property sectors. <br>
