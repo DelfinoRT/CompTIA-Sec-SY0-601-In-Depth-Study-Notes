@@ -3,11 +3,10 @@
 ## Part 1 - Threats, Attacks, and Vulnerabilities  
 ### Chapter 05 - Threat Actors, Vectors, and Intelligence Sources
 
-Threats are actions that can result in a risk to a system.  
-A threat actor is the source of the threat to the system.  
-Vectors are the methods that threat actors use to attack a vulnerability in a system in order to achieve their objectives.  
-Threat intelligence is knowledge based on evidence that allows the prevention or mitigation of a cyber attack.  
-Intruders are those who are attempting to conduct an intrusion and come in different varieties and have varying degrees of sophistication.  
+First a few definitions:
+Cyber **threats** are potential dangers that could compromise a system's security.
+A **threat actor**, the source of such threats, utilizes various methods, known as **vectors**, to exploit system vulnerabilities for their goals. **Threat intelligence** is evidence-based knowledge that aids in preventing or mitigating cyber attacks.
+**Intruders**, varying in sophistication, are individuals or groups attempting unauthorized access into a system.
 
 ## **Actors and Threats**
 
