@@ -38,31 +38,32 @@ Many countries now have the capability to conduct information warfare, character
 
 🟢 **Hacktivists**  
 
-A step above the script kiddies, we find **intermediate threat actors**. These individuals are considerably more **technically competent**, capable of writing scripts to exploit known vulnerabilities. They are far more advanced than script kiddies, who can sometimes be used as 'ground troops' to amplify an attack. 
-When these hackers unite for a collective effort, typically in support of a cause, they are referred to as **hacktivists**. A **hacktivist** is someone who leverages hacking to effect political or social change. The term "hacktivist" can be traced back to 1994, originating from the hacker group **"Cult of the Dead Cow"**.
+A step above the script kiddies, we find **intermediate threat actors**. These individuals are considerably more **technically competent**, capable of writing scripts to exploit known vulnerabilities. They are far more advanced than script kiddies, who can sometimes be used as 'ground troops' to amplify an attack.<br>
+When these hackers unite for a collective effort, typically in support of a cause, they are referred to as **hacktivists**. A **hacktivist** is someone who leverages hacking to effect political or social change. The term "hacktivist" can be traced back to 1994, originating from the hacker group **"Cult of the Dead Cow"**.<br>
 Hacktivism represents a blend of **activism and hacking**, often deployed as a form of civil disobedience to protest against issues like censorship, human rights violations, or other political and social matters. Despite the potentially noble intentions, hacktivism activities are **illegal** and can cause significant damage, disrupting services and leaking sensitive information. 
 
 Therefore, it's crucial to have robust **cybersecurity measures** in place to protect against these sophisticated threats.
 
 🟢 **Script Kiddies (Skiddies)**  
 
-On the **lower end of the technical spectrum**, we find individuals known as **script kiddies**. These are individuals who lack the technical expertise to create scripts or unearth new software vulnerabilities. However, they possess just enough understanding of computer systems to download and execute scripts developed by others. 
-The majority of the **'unfriendly' activities** noted on the internet are likely the work of these individuals. It's important to note that not all novice hackers fall into the script kiddies category. Some less experienced attackers strive to comprehend the tools they utilize.
-In contrast, **script kiddies show no interest in learning** about the exploits they use. They prefer what's easily accessible and readily available. Their motivations are typically simple and personal, ranging from seeking fun, creating chaos, and craving attention, to exacting revenge.
+On the **lower end of the technical spectrum**, we find individuals known as **script kiddies**. These are individuals who lack the technical expertise to create scripts or unearth new software vulnerabilities. However, they possess just enough understanding of computer systems to download and execute scripts developed by others.<br>
+The majority of the **'unfriendly' activities** noted on the internet are likely the work of these individuals. It's important to note that not all novice hackers fall into the script kiddies category. Some less experienced attackers strive to comprehend the tools they utilize.<br>
+In contrast, **script kiddies show no interest in learning** about the exploits they use. They prefer what's easily accessible and readily available. Their motivations are typically simple and personal, ranging from seeking fun, creating chaos, and craving attention, to exacting revenge.<br>
 The term **"script kiddie"** made its first appearance in hacker magazines, blogs, message boards, and Internet Relay Chat around the mid-1990s. It's worth mentioning that, despite their limited skill, script kiddies can still pose a threat due to the powerful exploits available online. Therefore, it's vital to maintain up-to-date system security to defend against such potential threats.
 
 
 🟢 **Criminal Syndicates**  
 
-These are cybersecurity criminals who lurk in the shadows of anonymity, create malware and perform attacks to steal identities, financial data, and intellectual property, all with an eye on making money.  
-One difference between criminal groups and the "average" hacker is the level of organization that criminal elements employ in their attacks as they typically have the money to spend on accomplishing the activity and are willing to spend extra time motivated by the level of the reward if they succeed.  
-Attacks by criminal organizations usually fall into the structured threat category characterised by a greater amount of planning, a longer period of time to conduct the activity, more financial backing to accomplish it, and possibly corruption or collusion with insiders.  
-Today’s criminal syndicates can benefit from national jurisdictions that do not have proper legal frameworks and technical capabilities to fight cybercrime. The easiness of communication, anonymity, and the accessibility of tools for illegal operations have transformed cybercrime into a global, fast-expanding, and profit-driven industry with organized criminal groups thriving behind it.  
+Criminal syndicates represent a significant category within **cybersecurity criminals**. They operate under the veil of anonymity, focusing on creating malware and launching attacks aimed at **stealing identities, financial data, and intellectual property**. Their primary motivation is financial gain.<br>
+A key distinction between criminal syndicates and the "average" hacker lies in the level of organization. Criminal groups typically demonstrate a higher degree of planning and coordination in their attacks, often backed by substantial financial resources. Their determination to reap high rewards makes them willing to invest more time and money into their illicit activities.<br>
+Criminal syndicate attacks usually fall into the **structured threat category**. These threats are characterized by extensive planning, longer operation times, sizable financial backing, and potential corruption or collusion with insiders.<br>
+In the present day, criminal syndicates often exploit national jurisdictions lacking robust legal frameworks and technical capabilities to combat cybercrime. The ease of communication, anonymity, and accessibility of tools for illegal operations have transformed cybercrime into a **global, rapidly growing, and profit-driven industry**. Organized criminal groups thrive in this environment, making them a major concern in the field of cybersecurity.
 
 ## **Hackers**  
 
-The original use of the term related to individuals who spent time trying to figure out how something worked so that they could control it in ways it was't designed.
-Haker is also a term to describe anyone who improperly uses computers, including criminals. This has led to the descriptors authorized, unauthorized and semi-authorized.  
+The term 'hacker' originally referred to individuals who sought to understand the workings of a system in order to control it beyond its intended design. Over time, the term has evolved and is now used to describe **anyone who improperly uses computers**, including those engaged in criminal activities.<br>
+To categorize hackers based on the legality and ethicality of their activities, descriptors such as **authorized, unauthorized, and semi-authorized** are used. An *authorized* hacker, often known as a 'white hat' hacker, legally tests systems for vulnerabilities with the intent to improve security. An *unauthorized* hacker, or 'black hat', exploits system vulnerabilities for malicious or personal gain. A *semi-authorized* hacker, or 'grey hat', operates in the middle ground, often hacking without explicit permission but with no malicious intent.<br>
+Understanding the different types of hackers is crucial in the field of **cybersecurity** as it helps in developing targeted defense strategies against potential cyber threats. 
 
 🟢 **Authorized**  
 
