@@ -175,15 +175,22 @@ Lastly, the **Advanced Persistent Threats (APTs)** are the most sophisticated ca
 
 ## **Vectors**  
 
-Unauthori
+**Threat vectors**, also known as **attack vectors**, refer to the various methods or pathways through which hackers can gain unauthorized access to confidential data or sensitive information. These vectors are essentially the potential weaknesses that cyber criminals exploit to breach a system's security. <br>
+**The entry points for these threat vectors can be diverse**, ranging from direct access channels like wireless networks or emails, to more indirect methods involving social media, supply chain attacks, and external data sources such as removable media. Even cloud-based systems are not immune, serving as yet another potential entry point for these cyber-attacks. 
 
 🟢 **Direct Access**  
 
-Unauthori
+**Direct Access** signifies that an attacker has direct interaction with the system. This threat vector could be a result of an **insider attack** (where a trusted user abuses their access) or could involve outsiders who are given the opportunity to engage directly with systems. For instance, this can occur with a web server exposed to the public internet.<br>
+It's essential to note that Direct Access is the core reason for implementing the **Principle of Least Privilege (PoLP)**. The PoLP is a computer security concept in which a user is given the minimum levels of access, or permissions, necessary to perform his/her job functions. This approach minimizes the risk of a potential data breach.
 
 🟢 **Wireless**  
 
-Unauthori
+**Wireless networking** significantly simplifies connectivity. It provides an array of benefits but also introduces numerous **security challenges** into the equation. <br>
+Unlike wired networks, wireless networking removes the need for **physical access** to perform an attack. The wireless signal can reach an attacker who might be positioned at a remote location, such as a parking lot. This accessibility considerably expands the potential **attack surface** and introduces new vulnerabilities that must be addressed. <br>
+# Key Points:
+- **Ease of Connection:** Wireless networking facilitates quick and effortless connections between devices. However, this convenience introduces potential security risks.
+- **Security Challenges:** The flexibility of wireless networking opens up a broad range of security threats. Attackers no longer need direct access to the network, which intensifies the need for robust security measures.
+- **Expanded Attack Surface:** Wireless signals can reach attackers in remote locations, expanding the attack surface. The increased accessibility necessitates vigilant security practices to prevent unauthorized access and breaches. 
 
 🟢 **E-mail**  
 
