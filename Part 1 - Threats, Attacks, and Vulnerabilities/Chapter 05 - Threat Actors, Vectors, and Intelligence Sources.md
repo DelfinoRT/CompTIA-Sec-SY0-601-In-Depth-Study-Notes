@@ -22,7 +22,16 @@ APTs are usually performed in stages:
 * **Two**: Establish a Foothold  
 * **Three**: Deepen Access  
 * **Four**: Move Laterally  
-* **Five**: Look, Learn, and Remain  
+* **Five**: Look, Learn, and Remain
+
+An Advanced Persistent Threat (**APT**) attack uses toolkits to infiltrate a target network and maintain a prolonged presence to avoid detection.<br>
+Due to the intensive resources required, **APTs typically target high-value entities** like nation states or large corporations with the aim of long-term information theft, unlike the quick "hit and run" tactics of many black hat hackers.<br>
+APTs typically progress in stages: <br>
+* 1) Gaining Access
+* 2) Establishing a Foothold
+* 3) Deepening Access
+* 4) Moving Laterally
+* 5) Observing, Learning, and Remaining undetected
 
 🟢 **Insider Treats**  
 
