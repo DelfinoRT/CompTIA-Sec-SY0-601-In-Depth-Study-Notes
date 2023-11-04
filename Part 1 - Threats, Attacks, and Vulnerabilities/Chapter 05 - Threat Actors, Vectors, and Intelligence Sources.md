@@ -26,32 +26,30 @@ APTs typically progress in stages: <br>
 
 🟢 **Insider Treats**  
 
-Most security is designed to protect against outside intruders and thus the protection usually lies at the boundary between the organization and the rest of the world.  
-Insiders have the access and knowledge necessary to cause immediate damage to an organization.  
-Attacks by insiders are often the result of employees who have become disgruntled with their organization and are looking for ways to disrupt operations. It is also possible that an "attack" by an insider may be an accident and not intended as an attack at all.  
-Employees are not the only insiders who organizations need to be concerned about. Often numerous other individuals have physical access to company facilities such as contractors or partners, custodial crews, maintenance crews, etc.  
+While most security measures focus on protecting against external threats, insider threats pose a unique challenge as they **come from within the organization**.<br>
+Insiders, with their access and knowledge, can cause significant damage. These threats often originate from disgruntled employees seeking to disrupt operations, but can also be unintentional.<br>
+However, employees aren't the only potential insiders. Others with physical access to company facilities, like contractors, partners, and maintenance crews, should also be considered when addressing insider threats.
 
 🟢 **State Actors**  
 
-At the top of the spectrum are those highly technical individuals referred to as elite hackers, who not only have the ability to write scripts that exploit vulnerabilities but also are capable of discovering new ones.  
-Many of these elite hackers are employed by major cybersecurity firms in an effort to combat criminal activity. Others are employed by nation-states and other international organizations, to train and run large groups of skilled hackers to conduct nation-state attacks against a wide range of adversaries.  
-State actors are employed by governments to compromise or gain access to the intelligence data of targeted governments, they are typically well-funded and often carry APT attacks.  
-Many nations today have developed to some extent the capability to conduct information warfare, this type of threat is characterized by a much longer period of preparation, tremendous financial backing, and a large and organized group of hackers.  
-Some of the possible targets for state actors are military forces, national infrastructure (water, gas, electricity, oil), refineries, distribution systems, banks, and telecommunication. 
+**State-sponsored** hackers, often considered elite due to their highly technical skills, exploit and discover new vulnerabilities. Some work for cybersecurity firms combating cybercrime, while others operate under nation-states, running groups of skilled hackers to conduct large-scale attacks.<br>
+These state actors, **typically well-funded**, primarily aim to **compromise intelligence data of other governments** and frequently **execute Advanced Persistent Threat (APT) attacks**.<br>
+Many countries now have the capability to conduct information warfare, characterized by extended preparation, significant financial support, and organized hacker groups. Potential targets for state actors include military forces, national infrastructure (water, gas, electricity, oil), refineries, distribution systems, banks, and telecommunications.
 
 🟢 **Hacktivists**  
 
-These threat actors are usually at the level below the elite hackers and are those people who are capable of writing scripts to exploit known vulnerabilities. These individuals are much more technically competent than script kiddies and, usually, script kiddies may be enlisted as ground troops to add volume to an attack.  
-When hackers work together for a collectivist effort, typically on behalf of some cause, they are referred to as hacktivists.  
-Simply put, a hacktivist is someone who uses hacking to bring about political and social change. The term “hacktivist” traces back to 1994, originating from the hacker group “Cult of the Dead Cow.”  
+**Hacktivists** are threat actors who stand a level below elite hackers. They are capable of writing scripts to **exploit known vulnerabilities**.<br>
+These individuals are technically **more competent than script kiddies** and, in some cases, they may recruit script kiddies to increase the scale of an attack.<br>
+Hackers who unite for a common cause or a collectivist effort are referred to as hacktivists.<br>
+In simpler terms, a **hacktivist** is someone who uses hacking to effect **political and social change**. The term “hacktivist” was first used in **1994**, originating from the hacker group, **“Cult of the Dead Cow”**.<br>
 
 🟢 **Script Kiddies (Skiddies)**  
 
-At the low spectrum (technically speaking), are those known as script kiddies, individuals who do not have the technical expertise to develop scripts or discover new vulnerabilities in software, but who have just enough understanding of computer systems to be able to download and run scripts that others have developed.  
-The vast majority of the "unfriendly" activity occurring on the internet is probably carried out by these individuals.  
-Not all novice hackers are script kiddies. Some inexperienced attackers do try to learn about and understand the tools they use. Script kiddies aren't interested in learning and understanding the exploits they use, instead using what is easy to find and is already available.  
-Script kiddies are typically motivated by simple, personal reasons -- to have fun, create chaos, seek attention, or take revenge.  
-The term "script kiddie" first appeared in hacker magazines, blogs, message boards, and Internet Relay Chat in the mid-1990s.  
+On the lower end of the technical spectrum, we find individuals known as **Script Kiddies**. These individuals lack the technical expertise to develop scripts or discover new vulnerabilities in software. However, they possess just enough knowledge of computer systems to download and run scripts developed by others.<br>
+It's likely that the majority of malicious activities on the internet are carried out by these individuals.<br>
+Not all novice hackers are script kiddies. Some beginners strive to understand the tools they use. Conversely, script kiddies show little interest in comprehending the exploits they utilize; they opt for what's readily available and easy to find.<br>
+Script kiddies are typically driven by simple, personal motives -- like having fun, creating chaos, seeking attention, or exacting revenge.<br>
+The term "Script Kiddie" first surfaced in hacker magazines, blogs, message boards, and Internet Relay Chat in the **mid-1990s**.<br>
 
 
 🟢 **Criminal Syndicates**  
