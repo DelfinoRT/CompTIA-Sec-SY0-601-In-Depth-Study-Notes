@@ -188,26 +188,28 @@ It's essential to note that Direct Access is the core reason for implementing th
 **Wireless networking** significantly simplifies connectivity. It provides an array of benefits but also introduces numerous **security challenges** into the equation. <br>
 Unlike wired networks, wireless networking removes the need for **physical access** to perform an attack. The wireless signal can reach an attacker who might be positioned at a remote location, such as a parking lot. This accessibility considerably expands the potential **attack surface** and introduces new vulnerabilities that must be addressed. <br>
 
-**Key Points:**
-- **Ease of Connection:** Wireless networking facilitates quick and effortless connections between devices. However, this convenience introduces potential security risks.
-- **Security Challenges:** The flexibility of wireless networking opens up a broad range of security threats. Attackers no longer need direct access to the network, which intensifies the need for robust security measures.
-- **Expanded Attack Surface:** Wireless signals can reach attackers in remote locations, expanding the attack surface. The increased accessibility necessitates vigilant security practices to prevent unauthorized access and breaches. 
-
 🟢 **E-mail**  
 
-Unauthori
+E-mail serves as a prominent **threat vector** in the realm of cyber security, frequently utilized in **social engineering attacks**. Given the reliance of most individuals and organizations on email for communication and coordination, it's a prime vector for cybercriminals aiming to trick users into divulging sensitive data, such as financial and personal information. <br>
+Historically, email was developed without profound security measures, leaving it vulnerable to various forms of exploitation. Consequently, the cyber security community is continually battling to fortify email security against continuously evolving threats. <br>
+One common attack method involves sending an email embedded with **malicious links or attachments**. If the email message is crafted convincingly enough, users may be enticed to click on the links or open the attachments. Once engaged, the threat vector effectively delivers its **payload**, successfully breaching the user's cyber defenses.
 
 🟢 **Supply Chain**  
 
-Unauthori
+The **supply chain threat vector** involves exploiting a company's supply chain to execute a cyber attack. The attacker manipulates the supply chain by injecting malicious code into a product or its updates. This is achieved by either directly infiltrating the vendor's software or by tampering with the update mechanism to distribute corrupted files. <br>
+Companies tend to trust their vendors implicitly, and this trust often leads them to overlook necessary security checks. In the absence of these checks, malware can easily spread to the vendor's customers. <br>
+This form of attack, known as **supply chain attack**, is a serious threat that can't be mitigated solely through policy enforcement and contractual agreements. It emphasizes the importance of maintaining **rigorous security protocols at all points in the supply chain** process.
 
 🟢 **Social Media**  
 
-Unauthori
+**Social media**, being a core business and communication platform, acts as a **vector for social engineering attacks**. Unlike corporate e-mail and other communication channels, it lacks numerous security checks, thus providing an easy passage for attackers to the user. <br>
+Every industry confronts unique risks on social media, often leading to public controversy or negative press. These risks range from **phishing attacks** and **account compromise**, to **fraud**, **scams**, and **impersonation**. <br>
+Therefore, **social media security** becomes a pivotal factor for modern business success. It involves the analysis of dynamic social media data to protect against cyber security and business threats. Many organizations, however, are yet to recognize social media as an evolving attack vector. These organizations remain vulnerable to potential threats due to this blind spot.
 
 🟢 **Removable Media**  
 
-Unauthori
+**Removable media**, particularly **USB memory sticks**, represent a significant **threat vector** in cybersecurity. These devices require no special skill to use and **can be manipulated by attackers to execute malware** by an unsuspecting victim. <br>
+This method is often employed in a social engineering attack known as a **USB drop attack**. In this scenario, the attacker leaves the infected USB device in a location where it's likely to be found and used, thus spreading the malware.
 
 🟢 **Cloud**  
 
