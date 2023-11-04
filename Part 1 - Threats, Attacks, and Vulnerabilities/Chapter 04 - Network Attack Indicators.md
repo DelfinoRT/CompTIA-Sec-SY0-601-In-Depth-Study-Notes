@@ -7,37 +7,30 @@
 
 🟢 **Evil Twin**  
 
-The main directive is to get victims to connect to the attacker's network instead of the victim's network by using the attacker's "cloned" access point (this is the evil twin) instead of a legitimate access point, the evil twins are usually enhanced with high-power and high-gain antennas to look like a better connection.  
-Once the attacker clones a legitimate AP, the attacker makes that AP (the evil twin) visible to others in an attempt to trick people to associate with it.  
-Usually, an evil twin is visible to the victims at the same time that a DoS attack is taking place to force users to disconnect from their legitimate network and use the evil twin instead.  
+An **Evil Twin** attack involves the attacker creating a **"cloned" access point (AP)**, tricking victims into connecting to it instead of their legit network. The malicious AP, often powered by high-gain antennas, appears more attractive. This attack usually coincides with a DoS attack, forcing users to disconnect from their network and connect to the evil twin.
 
 🟢 **Rouge Access Point**  
 
-It is an illegitimate AP (Access Point) that is physically plugged into a network to create a bypass from the outside into a legitimate network, typically used to perform MITM attacks to redirect the traffic from the victim's device to the network router but passing through the rogue access point.   
-A rouge point, being illegitimate is not administered by the network owner.  
-As the AP is already part of a network, the attacker does not need to make it visible or advertise it in any way.  
+A **Rogue Access Point (AP)** is an illegitimate AP connected into a network, creating a bypass into the legit network. It's typically used for MITM attacks, redirecting traffic from the victim's device to the network router via the rogue AP.<br>
+The network owner does not administer the rogue AP and as the AP is already part of a network, the attacker does not need to make it visible or advertise it in any way.
 
 🟢 **Bluejacking**  
 
-Is an attack on Bluetooth wireless technology where the threat actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs, or laptop computers.  
-Bluejacking is usually not very harmful, except that bluejacked people generally don't know what has happened, and so may think that their phone is malfunctioning. Usually, a bluejacker will only send a text message, but with modern phones, it's possible to send images or sounds as well.  
-The victim's device must also have Bluetooth enabled and must be in discoverable mode.  
+**Bluejacking** is an attack where an actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices. While typically not harmful, victims often misunderstand the situation, assuming their device is malfunctioning. The attack can include sending text messages, images, or sounds.<br>
+The victim's device must also have Bluetooth enabled and must be in discoverable mode.
 
 🟢 **Bluesnarfing**  
-The unauthorized access of information from a wireless device through a Bluetooth connection, often between phones, desktops, laptops, and PDAs (personal digital assistants), devices do not necessarily need to be paired for bluesnarfing to work.  
-This allows access to calendars, contact lists, emails, and text messages, and on some phones, users can copy pictures and private videos. Both Bluesnarfing and Bluejacking exploit others' Bluetooth connections without their knowledge.
-Bluesnarfing is the theft of information from the target device.  
+**Bluesnarfing** is the unauthorized access of information from a wireless device through a Bluetooth connection, devices do not necessarily need to be paired for bluesnarfing to work.<br>
+The attacker can access calendars, contact lists, emails, text messages, pictures, and private videos without the device owners' knowledge.<br>
+The goal of Bluesnarfing is the theft of information from the target device.
 
 🟢 **Disassociation**  
 
-A type of DoS attack in which the attacker breaks the wireless connection between the victim device and the access point.  
-The method is based on the use of a special disassociation frame specified under IEEE 802.11. Transferring such a frame to the target device breaks the connection, and the Wi-Fi protocol does not require any encryption for it. For a successful attack, the cybercriminal needs to know only the victim’s MAC address.  
-Usually, when the disassociation attack is successful, and the victim's device attempts to reconnect to the router, it'll be connecting to an evil twin router the attacker has set up for that purpose.  
+A disassociation attack is **a type of DoS attack** where the attacker breaks the wireless connection between the victim device and the access point using a special disassociation frame specified under **IEEE 802.11**. After a successful attack, the victim's device may connect to an evil twin router set up by the attacker.
 
 🟢 **Jamming**  
 
-Jamming attacks are a subset of denial of service (DoS) attacks in which malicious nodes block legitimate communication by causing intentional interference in wireless networks.  
-This method involves the use of a device to intentionally create interfering radio signals to effectively “jam” the airwaves, resulting in the AP and any client devices connection being disrupted.  
+In a jamming attack, malicious nodes block legitimate communication by causing intentional interference in wireless networks. The attacker uses a device to create interfering radio signals, disrupting the connection between the AP and any client devices.
 
 🟢 **Radio Frequency Identification (RFID)**  
 
@@ -57,15 +50,14 @@ A skimming attack can be used as part of a relay attack, where the information f
 
 🟢 **Near Field Communication (NFC)**  
 
-NFC is a subset of RFID and acts over a much shorter distance.  
-NFC enables smartphones and other devices to establish radio communication over a distance of typically 10cm or less and this has become the mainstream method of making payments via mobile phones.  
-In the attack scenario, the attacker holds the NFC reader near the victim's card and relays the data over another communication channel to a second NFC reader placed in proximity to the original reader that will emulate the victim's card.  
+NFC is a subset of RFID and acts over a shorter distance.<br>
+It enables radio communication between devices over a typical distance of 10cm or less and is often used for mobile payments.<br>
+In an attack scenario, an attacker can relay data from the victim's card to another reader to emulate the victim's card.
 
 🟢 **Initialization Vector (IV)**  
 
-One method to encrypt data is to add an initialization vector (or IV) to the data that is up to be encrypted, this adds extra randomization to the final ciphertext. Then, on the second block of data, we use the resulting ciphertext as the IV for the next block, and so on.  
-Because WEP uses 24-bit IVs, which is quite small, IVs ended up being re-used with the same key. Because IV keys are transferred with the data in plaintext so that the receiving party is able to decrypt the communication, an attacker can capture these IVs.  
-By capturing enough repeating IVs, an attacker can easily crack the WEP secret key. This is one of the many reasons that WEP was deprecated and replaced with much more secure wireless protocols (WPA2 and WPA3).  
+An initialization vector (IV) adds randomization to the encrypted data. However, because WEP uses small 24-bit IVs, the keys ended up being reused with the same IV, making it easy for an attacker to crack the WEP secret key by capturing enough repeating IVs.<br>
+This is one reason why WEP was replaced with more secure wireless protocols (WPA2 and WPA3).
 
 ## **On-path Attacks**
 
