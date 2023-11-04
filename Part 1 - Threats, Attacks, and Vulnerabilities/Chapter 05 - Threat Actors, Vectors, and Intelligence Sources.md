@@ -38,18 +38,18 @@ Many countries now have the capability to conduct information warfare, character
 
 🟢 **Hacktivists**  
 
-**Hacktivists** are threat actors who stand a level below elite hackers. They are capable of writing scripts to **exploit known vulnerabilities**.<br>
-These individuals are technically **more competent than script kiddies** and, in some cases, they may recruit script kiddies to increase the scale of an attack.<br>
-Hackers who unite for a common cause or a collectivist effort are referred to as hacktivists.<br>
-In simpler terms, a **hacktivist** is someone who uses hacking to effect **political and social change**. The term “hacktivist” was first used in **1994**, originating from the hacker group, **“Cult of the Dead Cow”**.<br>
+A step above the script kiddies, we find **intermediate threat actors**. These individuals are considerably more **technically competent**, capable of writing scripts to exploit known vulnerabilities. They are far more advanced than script kiddies, who can sometimes be used as 'ground troops' to amplify an attack. 
+When these hackers unite for a collective effort, typically in support of a cause, they are referred to as **hacktivists**. A **hacktivist** is someone who leverages hacking to effect political or social change. The term "hacktivist" can be traced back to 1994, originating from the hacker group **"Cult of the Dead Cow"**.
+Hacktivism represents a blend of **activism and hacking**, often deployed as a form of civil disobedience to protest against issues like censorship, human rights violations, or other political and social matters. Despite the potentially noble intentions, hacktivism activities are **illegal** and can cause significant damage, disrupting services and leaking sensitive information. 
+
+Therefore, it's crucial to have robust **cybersecurity measures** in place to protect against these sophisticated threats.
 
 🟢 **Script Kiddies (Skiddies)**  
 
-On the lower end of the technical spectrum, we find individuals known as **Script Kiddies**. These individuals lack the technical expertise to develop scripts or discover new vulnerabilities in software. However, they possess just enough knowledge of computer systems to download and run scripts developed by others.<br>
-It's likely that the majority of malicious activities on the internet are carried out by these individuals.<br>
-Not all novice hackers are script kiddies. Some beginners strive to understand the tools they use. Conversely, script kiddies show little interest in comprehending the exploits they utilize; they opt for what's readily available and easy to find.<br>
-Script kiddies are typically driven by simple, personal motives -- like having fun, creating chaos, seeking attention, or exacting revenge.<br>
-The term "Script Kiddie" first surfaced in hacker magazines, blogs, message boards, and Internet Relay Chat in the **mid-1990s**.<br>
+On the **lower end of the technical spectrum**, we find individuals known as **script kiddies**. These are individuals who lack the technical expertise to create scripts or unearth new software vulnerabilities. However, they possess just enough understanding of computer systems to download and execute scripts developed by others. 
+The majority of the **'unfriendly' activities** noted on the internet are likely the work of these individuals. It's important to note that not all novice hackers fall into the script kiddies category. Some less experienced attackers strive to comprehend the tools they utilize.
+In contrast, **script kiddies show no interest in learning** about the exploits they use. They prefer what's easily accessible and readily available. Their motivations are typically simple and personal, ranging from seeking fun, creating chaos, and craving attention, to exacting revenge.
+The term **"script kiddie"** made its first appearance in hacker magazines, blogs, message boards, and Internet Relay Chat around the mid-1990s. It's worth mentioning that, despite their limited skill, script kiddies can still pose a threat due to the powerful exploits available online. Therefore, it's vital to maintain up-to-date system security to defend against such potential threats.
 
 
 🟢 **Criminal Syndicates**  
