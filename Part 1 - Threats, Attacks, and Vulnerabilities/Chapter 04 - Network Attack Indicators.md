@@ -19,7 +19,8 @@ The network owner does not administer the rogue AP and as the AP is already part
 **Bluejacking** is an attack where an actor sends unsolicited messages over Bluetooth to Bluetooth-enabled devices. While typically not harmful, victims often misunderstand the situation, assuming their device is malfunctioning. The attack can include sending text messages, images, or sounds.<br>
 The victim's device must also have Bluetooth enabled and must be in discoverable mode.
 
-🟢 **Bluesnarfing**  
+🟢 **Bluesnarfing**
+
 **Bluesnarfing** is the unauthorized access of information from a wireless device through a Bluetooth connection, devices do not necessarily need to be paired for bluesnarfing to work.<br>
 The attacker can access calendars, contact lists, emails, text messages, pictures, and private videos without the device owners' knowledge.<br>
 The goal of Bluesnarfing is the theft of information from the target device.
