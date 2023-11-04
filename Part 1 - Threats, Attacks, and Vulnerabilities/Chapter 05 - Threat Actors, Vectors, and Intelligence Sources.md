@@ -4,9 +4,10 @@
 ### Chapter 05 - Threat Actors, Vectors, and Intelligence Sources
 
 First a few definitions:
-Cyber **threats** are potential dangers that could compromise a system's security.
-A **threat actor**, the source of such threats, utilizes various methods, known as **vectors**, to exploit system vulnerabilities for their goals. **Threat intelligence** is evidence-based knowledge that aids in preventing or mitigating cyber attacks.
-**Intruders**, varying in sophistication, are individuals or groups attempting unauthorized access into a system.
+Cyber **threats** are potential dangers that could compromise a system's security.<br>
+A **threat actor**, the source of such threats, utilizes various methods, known as **vectors**, to exploit system vulnerabilities for their goals. <br>
+**Threat intelligence** is evidence-based knowledge that aids in preventing or mitigating cyber attacks.<br>
+**Intruders**, varying in sophistication, are individuals or groups attempting unauthorized access into a system.<br>
 
 ## **Actors and Threats**
 
