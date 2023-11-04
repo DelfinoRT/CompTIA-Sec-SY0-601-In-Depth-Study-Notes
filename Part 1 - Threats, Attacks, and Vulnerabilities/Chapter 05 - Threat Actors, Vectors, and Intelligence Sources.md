@@ -87,7 +87,14 @@ In certain instances, **if organizations do not promptly respond or comply, gray
 
 ## **Shadow IT**  
 
-Unauthori
+**Shadow IT** signifies the unauthorized use of technology by employees, including software, hardware, and cloud services. This issue often surfaces when employees deviates from active IT policies to use unapproved tools for accomplishing tasks more efficiently. These shadow IT groups usually rise up of a desire to 'get things done' when central IT does not respond in what the unit considers to be a reasonable tomeframe.<br>
+While Shadow IT may occasionally increase productivity, it inadvertently exposes organizations to security threats, compliance problems, and financial liabilities. <br>
+Key concerns related to Shadow IT and cloud security include:
+* **Data Leakage** – Unauthorized cloud services often lack robust security controls, elevating the risk of sensitive data access or leakage. <br>
+* **Compliance Violations** – Using unsanctioned cloud services may lead to non-compliance with industry regulations or internal policies, potentially resulting in fines and damage to reputation. <br>
+* **Limited Visibility** – IT departments may find it difficult to maintain visibility and control over the organization's cloud environment in the presence of Shadow IT, making the detection and response to potential security incidents challenging. <br>
+* **Increased Attack Surface** – Unauthorized cloud services can broaden an organization's attack surface, offering cybercriminals more entry points to exploit. <br>
+Often, users resort to Shadow IT to expedite their work, but such usage remains unknown to the IT team and thus, unprotected by the organization's cybersecurity measures. In the context of cloud workloads and developer services, assets may harbor significant vulnerabilities like default passwords or misconfigurations, amplifying the risk of data breaches, noncompliance, and other liabilities.
 
 ## **Competitors**  
 
