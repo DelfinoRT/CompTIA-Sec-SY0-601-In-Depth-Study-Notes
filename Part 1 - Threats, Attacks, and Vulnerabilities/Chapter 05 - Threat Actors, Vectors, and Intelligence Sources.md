@@ -98,7 +98,14 @@ Often, users resort to Shadow IT to expedite their work, but such usage remains 
 
 ## **Competitors**  
 
-Unauthori
+**Competitors** can pose significant threats to businesses, not only through traditional means such as sales, markdowns, and rival products but also in the digital realm. The fight is essentially for **customer acquisition** and retention. <br>
+In the digital world, competitors may resort to various unethical and potentially illegal methods, ranging from mild to severe. These methods may include:
+* **False product reviews**: This is a less severe but still harmful method used to tarnish a company's reputation and sway potential customers. 
+* **System hacking**: This is a more severe method where competitors may hack a company's systems. The consequences can be quite harmful, including:
+  - **Theft of intellectual property**
+  - **System disruptions**
+  - **Access to customer lists**
+* **Denial-of-service attacks**: This is an extreme form of cyber threat where the competitor overwhelms the company's server with unnecessary requests, causing it to crash and become unavailable to customers. <br>
 
 ## **Attributes of Actors**  
 
