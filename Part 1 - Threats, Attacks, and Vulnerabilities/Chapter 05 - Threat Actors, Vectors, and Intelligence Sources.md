@@ -109,23 +109,65 @@ In the digital world, competitors may resort to various unethical and potentiall
 
 ## **Attributes of Actors**  
 
-Unauthori
+**Threat actors** in cybersecurity are classified based on several factors. These include their abilities, location (either internal or external), level of sophistication, resources and funding, and their intent and motivation. <br>
+Not all threat actors are driven by financial gain. Their motivations can be diverse, ranging from political or commercial espionage to pursuing a social or political agenda. Some threat actors are motivated by the thrill of discovering vulnerabilities to make a name for themselves. <br>
+The key characteristics that distinguish different types of threat actors are their level of sophistication and the resources they have at their disposal to execute attacks. <br>
 
 🟢 **Internal/External**  
 
-Unauthori
+**Threat actors** can be categorized into two main types: **internal** and **external**. <br>
+**Internal threat actors** have a significant advantage in that they already possess access to the system. Even if this access is restricted to a user level, it still enables them to execute their attack. This access privilege significantly reduces the steps they need to take to compromise the system. <br>
+On the other hand, **external threat actors** must first establish access to the target system. External threats typically originate outside the network, including public-facing forums and global events. <br>
+Therefore, an effective cybersecurity strategy should consider both internal and external threats, and implement measures to protect against both types of threat actors.
 
 🟢 **Levels of Sohistication/Capability**  
 
-Unauthori
+Threat actors' skill levels can vary significantly within a group, with a few highly skilled individuals often leading a larger number of less skilled participants. The higher the skill level, the more likely the individual is to design and lead attacks. <br>
+Interestingly, as skill level increases, the use of minimal methods also rises. **True zero-day vulnerabilities** are seldom exploited; they are preserved for situations with no other options due to the fact that once these vulnerabilities are exploited, they are promptly patched. Despite the resources available to nation-state teams, many attacks are old, exploit outdated vulnerabilities, and use simple methods that exploit easy targets. <br> 
+The sophistication level of a threat actor is a critical factor in assessing the risk of an attack. More skilled threat actors have a higher chance of a successful attack, while less skilled attackers have a lower probability of success. <br>
+Currently, a 'de-facto' standard, **STIX (Structured Threat Information eXpression)**, is trending. STIX is a language designed for sharing cyber threat intelligence. Version 2.0 defines Threat Actor Sophistication in seven levels, ranging from None to Strategic. The None level denotes actors who carry out random acts of disruption or destruction with tools they don't understand, while the Strategic level includes state actors who create vulnerabilities in commercial products during design, development, or manufacturing, or have the ability to impact products while in the supply chain to enable network and system exploitation. <br>
 
 🟢 **Resources/Funding**  
 
-Unauthori
+**Threat actors**, such as **criminal organizations and nation-states**, often have robust resources including larger budgets, more personnel, and the ability to sustain long-term campaigns. These resources are critical, as Advanced Persistent Threats (APTs) demand significant expenditure to maintain teams and tools for prolonged periods. <br>
+**APTs** are particularly resource-intensive, requiring sustained funding and effort to successfully infiltrate and compromise systems. These resources often come from well-funded organizations capable of managing such campaigns over an extended period. <br>
+In summary, the scale and duration of cyber threats, are often directly correlated to the resources and funding of the threat actors. This explains why major organizations like criminal networks and nation-states are often behind the most significant and persistent cyber threats.
 
 🟢 **Intent/Motivation**  
 
-Unauthori
+The intent or motivation of a threat actor can range from simple curiosities to highly complex objectives. A useful framework for understanding their motivations is the **M.I.C.E** acronym:
+- **M – Money**
+- **I – Ideology**
+- **C – Compromise**
+- **E – Ego**
+## Money
+Money is the most common motivator. Threat actors, driven by financial gain, often cast a wide net, targeting easy victims. They can profit from selling stolen data on the black market or engaging in ransom attacks. Even nation states, like North Korea, have been found to target companies for financial gain, specifically those in cryptocurrency exchange or intellectual property sectors.<br>
+## Ideology
+Threat actors driven by ideology pose a unique challenge, as their actions are often based on subjective beliefs. These individuals or groups may aim to shame or embarrass organizations that conflict with their principles. Nation states can also be motivated by ideology, targeting specific groups with well-funded and persistent attacks. It's crucial for organizations to understand the data these actors may pursue and to protect it diligently.<br>
+## Compromise
+The compromise category typically refers to insider threats. Sometimes, changes in business mandates or policies can lead employees to act against their own organizations. With the rise of "bring your own device" (BYOD) policies in hybrid work environments, organizations must remain vigilant and proactive in detecting potential insider threats.<br>
+## Ego
+Egotistical threat actors may target organizations to prove a point or settle personal scores. This motivation often comes into play in high-turnover companies or following contentious employee separations. To mitigate these threats, organizations need to implement dual control measures.<br>
+
+It's worth noting that motivations can overlap or vary greatly depending on the threat actor's skill level and objectives. Other motivations for cyberattacks can include:
+
+- **Financial Gain**: Cybercriminals often steal sensitive information for sale or fraudulent use.
+- **Espionage**: Nation-states or corporate competitors may gather sensitive information for political, economic, or strategic advantages.
+- **Hacktivism**: Individuals or groups may conduct cyberattacks to promote their ideologies or protest perceived injustices.
+- **Sabotage and Disruption**: Some actors aim to disrupt critical infrastructure or services for political or ideological reasons.
+- **Personal Vendettas**: Disgruntled employees or partners may misuse their access to sensitive information or systems for personal gain or revenge.
+- **Ransom**: Ransomware attacks involve encrypting data and demanding payment for its release.
+- **Political Discord**: Extremist groups may use cyber methods to spread propaganda, recruit members, or coordinate activities.
+- **Competitive Advantage/Stealing Trade Secrets**: Business rivals may engage in cyber espionage or attacks to gain a competitive edge.
+- **Thrill-Seeking and Notoriety**: Some individuals hack for the thrill, seeking recognition within hacker communities.
+
+**Script Kiddies** are beginners in the world of hacking, with their primary goal being to merely execute a technique successfully. Their motivation is often driven by curiosity rather than malicious intent. <br>
+**Hacktivists**, on the other hand, are more skilled threat actors. Their actions are purpose-driven and often aim to make a political or social statement. They use their skills to exploit vulnerabilities to make their point. <br>
+Lastly, the **Advanced Persistent Threats (APTs)** are the most sophisticated category of threat actors. Their intent or motivation is tri-fold: 
+1. Continual access: APTs strive to maintain constant access to their targets. 
+2. Stealth: APTs aim to remain undetected for as long as possible to avoid raising suspicion and to continue their activities.
+3. Theft: The ultimate goal of APTs is to steal valuable information from the network they have infiltrated. They don't expend resources on maintaining access and stealth without the intent of extracting something of value.
+
 
 ## **Vectors**  
 
