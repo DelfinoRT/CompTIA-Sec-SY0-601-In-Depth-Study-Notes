@@ -209,7 +209,8 @@ Therefore, **social media security** becomes a pivotal factor for modern busines
 🟢 **Removable Media**  
 
 **Removable media**, particularly **USB memory sticks**, represent a significant **threat vector** in cybersecurity. These devices require no special skill to use and **can be manipulated by attackers to execute malware** by an unsuspecting victim. <br>
-This method is often employed in a social engineering attack known as a **USB drop attack**. In this scenario, the attacker leaves the infected USB device in a location where it's likely to be found and used, thus spreading the malware.
+This method is often employed in a social engineering attack known as a **USB drop attack**. In this scenario, the attacker leaves the infected USB device in a location where it's likely to be found and used, thus spreading the malware. <br>
+To combat this threat, it's crucial to **never use an unknown USB stick** and always ensure your antivirus software is up to date. Also, disabling auto-run features for removable media can prevent unexpected execution of malicious programs. 
 
 🟢 **Cloud**  
 
