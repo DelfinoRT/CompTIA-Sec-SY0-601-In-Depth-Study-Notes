@@ -87,7 +87,7 @@ In certain instances, **if organizations do not promptly respond or comply, gray
 
 ## **Shadow IT**  
 
-**Shadow IT** signifies the unauthorized use of technology by employees, including software, hardware, and cloud services. This issue often surfaces when employees deviates from active IT policies to use unapproved tools for accomplishing tasks more efficiently. These shadow IT groups usually rise up of a desire to 'get things done' when central IT does not respond in what the unit considers to be a reasonable tomeframe.<br>
+**Shadow IT** signifies the unauthorized use of technology by employees, including software, hardware, and cloud services. This issue often surfaces when employees deviates from active IT policies to use unapproved tools for accomplishing tasks more efficiently. These shadow IT groups usually rise up of a desire to 'get things done' when central IT does not respond in what the unit considers to be a reasonable timeframe.<br>
 While Shadow IT may occasionally increase productivity, it inadvertently exposes organizations to security threats, compliance problems, and financial liabilities. <br>
 Key concerns related to Shadow IT and cloud security include:
 * **Data Leakage** – Unauthorized cloud services often lack robust security controls, elevating the risk of sensitive data access or leakage. <br>
