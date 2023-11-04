@@ -69,7 +69,7 @@ Understanding the different types of hackers is crucial in the field of **cybers
 
 **Authorized hackers**, often termed as **"white hat" hackers**, are professionals who use their exceptional skills to enhance cybersecurity. They function with the main aim to **identify vulnerabilities** and **strengthen security systems**.<br>
 These individuals could be **security consultants** who perform a range of activities, including but not limited to, **chasing vulnerabilities** and **conducting penetration tests**. They implement the **same tools and techniques** as malicious hackers, however, the distinguishing factor is their **ethical approach**.<br>
-Their operations are **fully sanctioned** by the organizations or firms they work for, allowing them to understand the system's weaknesses in-depth. With this knowledge, they can devise strategies to **fix the identified vulnerabilities**, ultimately bolstering the cybersecurity infrastructure.<br>
+Their operations are **fully registered and monitored** by the organizations or firms they work for, allowing them to understand the system's weaknesses in-depth. With this knowledge, they can devise strategies to **fix the identified vulnerabilities**, ultimately bolstering the cybersecurity infrastructure.<br>
 In essence, white hat hackers play a pivotal role in **proactive cybersecurity**, aiding organizations in staying one step ahead of potential cyber threats.
 
 🟢 **Unauthorized**  
