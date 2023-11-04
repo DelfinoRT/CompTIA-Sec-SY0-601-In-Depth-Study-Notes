@@ -40,7 +40,7 @@ Several different attack types can be performed against RFID systems:
 * Against RFID devices themselves (the chips and readers)  
 * Against the communication channel between the device and the reader
 * Against the reader and back-end system  
-*
+
 The main attacks against RFID are replay, skimming, eavesdropping and MITM.  
 
 * In a **replay attack**, the RFID information is recorded and then replayed later.  
