@@ -141,12 +141,16 @@ The intent or motivation of a threat actor can range from simple curiosities to 
 - **C – Compromise**
 - **E – Ego**
 <br>
+
 **Money** <br>
 Money is the most common motivator. Threat actors, driven by financial gain, often cast a wide net, targeting easy victims. They can profit from selling stolen data on the black market or engaging in ransom attacks. Even nation states, like North Korea, have been found to target companies for financial gain, specifically those in cryptocurrency exchange or intellectual property sectors. <br>
+
 **Ideology** <br>
 Threat actors driven by ideology pose a unique challenge, as their actions are often based on subjective beliefs. These individuals or groups may aim to shame or embarrass organizations that conflict with their principles. Nation states can also be motivated by ideology, targeting specific groups with well-funded and persistent attacks. It's crucial for organizations to understand the data these actors may pursue and to protect it diligently. <br>
+
 **Compromise** <br>
 The compromise category typically refers to insider threats. Sometimes, changes in business mandates or policies can lead employees to act against their own organizations. With the rise of "bring your own device" (BYOD) policies in hybrid work environments, organizations must remain vigilant and proactive in detecting potential insider threats. <br>
+
 **Ego** <br>
 Egotistical threat actors may target organizations to prove a point or settle personal scores. This motivation often comes into play in high-turnover companies or following contentious employee separations. To mitigate these threats, organizations need to implement dual control measures. <br>
 
