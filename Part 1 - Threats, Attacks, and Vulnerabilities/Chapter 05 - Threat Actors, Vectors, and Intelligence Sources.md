@@ -228,7 +228,18 @@ Cloud vulnerability exploits are also on the rise, as businesses transition to c
 
 ## **Threat Intelligence Sources**  
 
-Unauthori
+Cybersecurity is a complex field, and no organization can defend against every threat. Attempting to do so can introduce unnecessary complexity, potentially creating more vulnerabilities.<br>
+Threat intelligence is the key to focusing defenses effectively as it involves gathering data, information, and knowledge to keep organizations informed about threats and actors.
+
+Key Elements of Threat Intelligence
+- **Resource Variety:** Threat intelligence draws from a wide range of sources.
+- **Focus on Likely Threats:** The primary goal is to identify and prioritize defenses against the most probable threat actors.
+
+It helps organizations in various ways:
+- **Past, Present, and Future Threats:** Gathering data on past, ongoing, and potential future cyberattacks.
+- **Security Vulnerability Awareness:** Gaining insights into security weaknesses for prioritizing mitigation tasks.
+- **Internal and External Sources:** Utilizing both internal data sources, like Security Information and Event Management (SIEM) logs, and external sources, such as open source information sharing and communication with threat information-sharing groups.
+- **Evidence-Based and Actionable:** Providing evidence-based intelligence that aids decision-making and can be acted upon.
 
 🟢 **Open Source Intelligence (OSINT)**  
 
