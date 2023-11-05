@@ -243,7 +243,30 @@ It helps organizations in various ways:
 
 🟢 **Open Source Intelligence (OSINT)**  
 
-Unauthori
+Open Source Intelligence (OSINT) is the **collection and analysis of data from openly available sources** to produce actionable intelligence.
+
+**Key Features of OSINT**
+
+- Tailored Knowledge: OSINT applies intelligence processes to create specialized knowledge supporting specific decisions for individuals or groups.
+- Collating Information: It addresses the challenge of consolidating data from diverse sources into a usable format.
+- Source Evaluation: The value of OSINT feeds depends on the source's origin, data vetting, and data currency.
+
+**OSINT Sources**
+
+- **Media:** Includes newspapers, magazines, radio, and television content from various countries.
+- **Internet:** Comprises online publications, blogs, social media, and citizen-generated content. This category is valuable for its timeliness and accessibility.
+- **Public Government Data:** Involves government reports, budgets, directories, and speeches, openly accessible to the public.
+- **Professional and Academic Publications:** Sources information from journals, conferences, academic papers, and dissertations.
+- **Commercial Data:** Encompasses commercial imagery, financial assessments, and databases.
+- **Grey Literature:** Includes technical reports, patents, business documents, and more.
+
+Notable OSINT Feeds
+
+- **Department of Homeland Security (DHS):** Offers malicious email addresses, IP addresses, and other threat information via the Automated Indicator Sharing (AIS) portal. Relies on contributions from private companies to maintain accuracy.
+- **Federal Bureau of Investigation (FBI) - InfraGard:** Focuses on critical infrastructure security, with potential time lags due to ongoing investigations.
+- **SANS Internet Storm Center (ISC):** A distributed sensor network processing millions of intrusion detection logs daily, generating security threat alerts.
+- **VirusTotal (Google):** Maintains a signature database of malware and related information using feeds from numerous antivirus scanners.
+- **Cisco Talos Intelligence:** Offers a feed for Cisco customers (with a free version available), renowned for its extensive data collection and research capabilities, focusing on emerging threats.
 
 🟢 **Closed/Proprietary**  
 
