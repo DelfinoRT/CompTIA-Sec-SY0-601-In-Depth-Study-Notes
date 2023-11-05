@@ -246,10 +246,16 @@ It helps organizations in various ways:
 Open Source Intelligence (OSINT) is the **collection and analysis of data from openly available sources** to produce actionable intelligence.
 
 **Key Features of OSINT**
-
-- Tailored Knowledge: OSINT applies intelligence processes to create specialized knowledge supporting specific decisions for individuals or groups.
-- Collating Information: It addresses the challenge of consolidating data from diverse sources into a usable format.
-- Source Evaluation: The value of OSINT feeds depends on the source's origin, data vetting, and data currency.
+- Publicly Accessible Data: OSINT primarily relies on information that is openly available to the public. This data can be found on the internet, in public records, or through various public sources.
+- Legal and Ethical: OSINT operations are conducted within legal and ethical boundaries. It does not involve hacking or unauthorized access to data, ensuring compliance with privacy and legal regulations.
+- Diverse Sources: OSINT draws data from a wide range of sources, including but not limited to media, the internet, public government records, professional and academic publications, commercial data, and grey literature.
+- Real-Time and Timeliness: OSINT sources, especially those from the internet and social media, provide real-time information. This timeliness is crucial for staying updated on rapidly evolving events and threats.
+- Tailored Knowledge: OSINT applies intelligence processes to create specialized knowledge that supports specific decisions for individuals, organizations, or government agencies.
+- Analysis and Interpretation: OSINT involves the collection and analysis of data to generate actionable intelligence. This analysis helps in understanding trends, identifying potential threats, and making informed decisions.
+- Multidisciplinary: OSINT is not limited to a single domain but is used in various fields, including national security, law enforcement, business intelligence, and cybersecurity.
+- Setting and Validation: The quality and reliability of OSINT data can vary, so it is important to validate and verify the information from different sources to ensure accuracy.
+- Privacy Awareness: OSINT practitioners should be mindful of privacy concerns and should not engage in activities that infringe on individuals' or organizations' privacy rights.
+- Constant Evolution: The landscape of open source data is constantly changing, with new sources and data types emerging. OSINT professionals need to adapt to these changes to remain effective.
 
 **OSINT Sources**
 
