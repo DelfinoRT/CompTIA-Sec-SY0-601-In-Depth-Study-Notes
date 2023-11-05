@@ -253,8 +253,6 @@ Open Source Intelligence (OSINT) is the **collection and analysis of data from o
 - Tailored Knowledge: OSINT applies intelligence processes to create specialized knowledge that supports specific decisions for individuals, organizations, or government agencies.
 - Analysis and Interpretation: OSINT involves the collection and analysis of data to generate actionable intelligence. This analysis helps in understanding trends, identifying potential threats, and making informed decisions.
 - Multidisciplinary: OSINT is not limited to a single domain but is used in various fields, including national security, law enforcement, business intelligence, and cybersecurity.
-- Setting and Validation: The quality and reliability of OSINT data can vary, so it is important to validate and verify the information from different sources to ensure accuracy.
-- Privacy Awareness: OSINT practitioners should be mindful of privacy concerns and should not engage in activities that infringe on individuals' or organizations' privacy rights.
 - Constant Evolution: The landscape of open source data is constantly changing, with new sources and data types emerging. OSINT professionals need to adapt to these changes to remain effective.
 
 **OSINT Sources**
