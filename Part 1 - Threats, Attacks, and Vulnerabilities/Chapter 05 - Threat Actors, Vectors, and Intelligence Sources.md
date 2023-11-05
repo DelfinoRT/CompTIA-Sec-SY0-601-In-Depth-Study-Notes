@@ -214,7 +214,14 @@ To combat this threat, it's crucial to **never use an unknown USB stick** and al
 
 🟢 **Cloud**  
 
-Unauthori
+The cloud is a significant attack vector in the cybersecurity landscape. To grasp its risks, consider it as an extension of someone else's computer. Without antivirus protection in your cloud agreement, it's no different from any other internet-connected source. <br>
+
+The concept of the cloud entails a network of servers offering remote access to data and resources, but this setup comes with inherent risks. A major concern is the lack of control over these networks, featuring publicly accessible, unsecured resources, inviting unauthorized access and potential data theft. Hackers employ various techniques, including brute force attacks, denial of service attacks, and phishing to exploit cloud networks. <br>
+
+Identity access management (IAM) is crucial for controlling and securing cloud data, encompassing authentication, authorization, and auditing. It's vital to understand the risks of overly permissive access and wildcard permissions. Cross-account access can amplify the risk if one account is compromised. <br>
+Data exfiltration from the cloud is a grave concern, especially with the increasing storage of sensitive data. Hackers target cloud data, posing significant repercussions, including data leakage and regulatory penalties. Protection involves careful access control and vigilant monitoring. <br>
+Cloud security misconfigurations are a recurring vulnerability, often stemming from human error, default settings, architectural design issues, or a lack of security understanding. These misconfigurations can expose data and systems, occurring at various cloud computing lifecycle stages. <br>
+Cloud vulnerability exploits are also on the rise, as businesses transition to cloud. Companies must be aware of vulnerabilities, particularly outdated or unpatched software, which is a common entry point for attackers who leverage malware and viruses to exploit these weaknesses.
 
 ## **Threat Intelligence Sources**  
 
