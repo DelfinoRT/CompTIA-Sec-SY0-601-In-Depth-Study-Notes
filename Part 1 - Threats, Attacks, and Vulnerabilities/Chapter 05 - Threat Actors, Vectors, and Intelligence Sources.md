@@ -264,7 +264,7 @@ Open Source Intelligence (OSINT) is the **collection and analysis of data from o
 - **Commercial Data:** Encompasses commercial imagery, financial assessments, and databases.
 - **Grey Literature:** Includes technical reports, patents, business documents, and more.
 
-Notable OSINT Feeds
+**Notable OSINT Feeds**
 
 - **Department of Homeland Security (DHS):** Offers malicious email addresses, IP addresses, and other threat information via the Automated Indicator Sharing (AIS) portal. Relies on contributions from private companies to maintain accuracy.
 - **Federal Bureau of Investigation (FBI) - InfraGard:** Focuses on critical infrastructure security, with potential time lags due to ongoing investigations.
